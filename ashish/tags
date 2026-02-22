@@ -1,0 +1,915 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/hep/packages/qpix_scripts_tmp/ashish/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+DAC_settings	run_calibration.py	/^DAC_settings = range(12 , 32 , 1) $/;"	v
+DECIMAL_replen	old_files/sample_cal_srak.py	/^DECIMAL_replen = 17  # THIS DOES NOT set Replenishment: only a marker! $/;"	v
+DECIMAL_replen	old_files/sample_ncd.py	/^DECIMAL_replen = 99  # THIS DOES NOT set Replenishment: only a marker! $/;"	v
+all_counts	run_calibration.py	/^        all_counts, all_timestamps = sample_n_trials(trials_num, win_width=win_width, win_wait=w/;"	v
+all_counts	run_sampling.py	/^all_counts, all_timestamps = sample_n_trials(trials_num, win_width=win_width, win_wait=win_wait,/;"	v
+all_counts	run_sampling_sweep.py	/^    all_counts, all_timestamps = sample_n_trials(trials_num, win_width=win_width, win_wait=win_w/;"	v
+all_timestamps	run_calibration.py	/^        all_counts, all_timestamps = sample_n_trials(trials_num, win_width=win_width, win_wait=w/;"	v
+all_timestamps	run_sampling.py	/^all_counts, all_timestamps = sample_n_trials(trials_num, win_width=win_width, win_wait=win_wait,/;"	v
+all_timestamps	run_sampling_sweep.py	/^    all_counts, all_timestamps = sample_n_trials(trials_num, win_width=win_width, win_wait=win_w/;"	v
+avgArr	old_files/channelRunsJune27.py	/^def avgArr(ch):$/;"	f
+avgArr	old_files/channelRunsJune28.py	/^def avgArr(ch):$/;"	f
+avgArr	old_files/myModules.py	/^def avgArr(ch):$/;"	f
+avgArr	old_files/purmTest2.py	/^def avgArr(ch):$/;"	f
+avgArr	old_files/samplesCollection.py	/^def avgArr(ch):$/;"	f
+avgArr	old_files/samplesCollection_ncd.py	/^def avgArr(ch):$/;"	f
+binary_search_channel	set_DAC7578_sweep_bipar.py	/^def binary_search_channel(channel, min_v, max_v):$/;"	f
+calibration_pulse	commands/helper_functions.py	/^def calibration_pulse():$/;"	f
+ch0	old_files/channelRunsJune27.py	/^ch0 = [0, '0x43c001b4', '0x43c00108', '0x43c0010c']$/;"	v
+ch0	old_files/channelRunsJune28.py	/^ch0 = [0, '0x43c001b4', '0x43c00108', '0x43c0010c']$/;"	v
+ch0	old_files/purmTest2.py	/^ch0 = [0, '0x43c001b4', '0x43c00108', '0x43c0010c']$/;"	v
+ch0	old_files/sample_cal_ncd.py	/^ch0 = [0, '0x43c001b4', '0x43c00108', '0x43c0010c']$/;"	v
+ch0	old_files/sample_cal_srak.py	/^ch0 = [0, '0x43c001b4', '0x43c00108', '0x43c0010c']$/;"	v
+ch0	old_files/samplesCollection.py	/^ch0 = [0, '0x43c001b4', '0x43c00108', '0x43c0010c']$/;"	v
+ch0	old_files/samplesCollection_module_ncd.py	/^ch0 = [0, '0x43c001b4', '0x43c00108', '0x43c0010c']$/;"	v
+ch0	old_files/samplesCollection_ncd.py	/^ch0 = [0, '0x43c001b4', '0x43c00108', '0x43c0010c']$/;"	v
+ch0Counts	old_files/calibration_sweep_ncd.py	/^ch0Counts = []$/;"	v
+ch0Counts	old_files/calibration_sweep_srak.py	/^ch0Counts = []$/;"	v
+ch0Counts	old_files/channelRunsJune27.py	/^ch0Counts = []$/;"	v
+ch0Counts	old_files/channelRunsJune28.py	/^ch0Counts = []$/;"	v
+ch0Counts	old_files/purmTest2.py	/^ch0Counts = []$/;"	v
+ch0Counts	old_files/sample_cal_ncd.py	/^ch0Counts = []$/;"	v
+ch0Counts	old_files/samplesCollection.py	/^ch0Counts = []$/;"	v
+ch0Counts	old_files/samplesCollection_module_ncd.py	/^ch0Counts = []$/;"	v
+ch0Counts	old_files/samplesCollection_ncd.py	/^ch0Counts = []$/;"	v
+ch1	old_files/channelRunsJune27.py	/^ch1 = [1, '0x43c001b8', '0x43c00110', '0x43c00114']$/;"	v
+ch1	old_files/channelRunsJune28.py	/^ch1 = [1, '0x43c001b8', '0x43c00110', '0x43c00114']$/;"	v
+ch1	old_files/purmTest2.py	/^ch1 = [1, '0x43c001b8', '0x43c00110', '0x43c00114']$/;"	v
+ch1	old_files/sample_cal_ncd.py	/^ch1 = [1, '0x43c001b8', '0x43c00110', '0x43c00114']$/;"	v
+ch1	old_files/sample_cal_srak.py	/^ch1 = [1, '0x43c001b8', '0x43c00110', '0x43c00114']$/;"	v
+ch1	old_files/samplesCollection.py	/^ch1 = [1, '0x43c001b8', '0x43c00110', '0x43c00114']$/;"	v
+ch1	old_files/samplesCollection_module_ncd.py	/^ch1 = [1, '0x43c001b8', '0x43c00110', '0x43c00114']$/;"	v
+ch1	old_files/samplesCollection_ncd.py	/^ch1 = [1, '0x43c001b8', '0x43c00110', '0x43c00114']$/;"	v
+ch10	old_files/channelRunsJune27.py	/^ch10 = [10, '0x43c001dc', '0x43c00158', '0x43c0015c']$/;"	v
+ch10	old_files/channelRunsJune28.py	/^ch10 = [10, '0x43c001dc', '0x43c00158', '0x43c0015c']$/;"	v
+ch10	old_files/purmTest2.py	/^ch10 = [10, '0x43c001dc', '0x43c00158', '0x43c0015c']$/;"	v
+ch10	old_files/sample_cal_ncd.py	/^ch10 = [10, '0x43c001dc', '0x43c00158', '0x43c0015c']$/;"	v
+ch10	old_files/sample_cal_srak.py	/^ch10 = [10, '0x43c001dc', '0x43c00158', '0x43c0015c']$/;"	v
+ch10	old_files/samplesCollection.py	/^ch10 = [10, '0x43c001dc', '0x43c00158', '0x43c0015c']$/;"	v
+ch10	old_files/samplesCollection_module_ncd.py	/^ch10 = [10, '0x43c001dc', '0x43c00158', '0x43c0015c']$/;"	v
+ch10	old_files/samplesCollection_ncd.py	/^ch10 = [10, '0x43c001dc', '0x43c00158', '0x43c0015c']$/;"	v
+ch10Counts	old_files/calibration_sweep_ncd.py	/^ch10Counts = []$/;"	v
+ch10Counts	old_files/calibration_sweep_srak.py	/^ch10Counts = []$/;"	v
+ch10Counts	old_files/channelRunsJune27.py	/^ch10Counts = []$/;"	v
+ch10Counts	old_files/channelRunsJune28.py	/^ch10Counts = []$/;"	v
+ch10Counts	old_files/purmTest2.py	/^ch10Counts = []$/;"	v
+ch10Counts	old_files/sample_cal_ncd.py	/^ch10Counts = []$/;"	v
+ch10Counts	old_files/samplesCollection.py	/^ch10Counts = []$/;"	v
+ch10Counts	old_files/samplesCollection_module_ncd.py	/^ch10Counts = []$/;"	v
+ch10Counts	old_files/samplesCollection_ncd.py	/^ch10Counts = []$/;"	v
+ch11	old_files/channelRunsJune27.py	/^ch11 = [11, '0x43c001e0', '0x43c00160', '0x43c00164']$/;"	v
+ch11	old_files/channelRunsJune28.py	/^ch11 = [11, '0x43c001e0', '0x43c00160', '0x43c00164']$/;"	v
+ch11	old_files/purmTest2.py	/^ch11 = [11, '0x43c001e0', '0x43c00160', '0x43c00164']$/;"	v
+ch11	old_files/sample_cal_ncd.py	/^ch11 = [11, '0x43c001e0', '0x43c00160', '0x43c00164']$/;"	v
+ch11	old_files/sample_cal_srak.py	/^ch11 = [11, '0x43c001e0', '0x43c00160', '0x43c00164']$/;"	v
+ch11	old_files/samplesCollection.py	/^ch11 = [11, '0x43c001e0', '0x43c00160', '0x43c00164']$/;"	v
+ch11	old_files/samplesCollection_module_ncd.py	/^ch11 = [11, '0x43c001e0', '0x43c00160', '0x43c00164']$/;"	v
+ch11	old_files/samplesCollection_ncd.py	/^ch11 = [11, '0x43c001e0', '0x43c00160', '0x43c00164']$/;"	v
+ch11Counts	old_files/calibration_sweep_ncd.py	/^ch11Counts = []$/;"	v
+ch11Counts	old_files/calibration_sweep_srak.py	/^ch11Counts = []$/;"	v
+ch11Counts	old_files/channelRunsJune27.py	/^ch11Counts = []$/;"	v
+ch11Counts	old_files/channelRunsJune28.py	/^ch11Counts = []$/;"	v
+ch11Counts	old_files/purmTest2.py	/^ch11Counts = []$/;"	v
+ch11Counts	old_files/sample_cal_ncd.py	/^ch11Counts = []$/;"	v
+ch11Counts	old_files/samplesCollection.py	/^ch11Counts = []$/;"	v
+ch11Counts	old_files/samplesCollection_module_ncd.py	/^ch11Counts = []$/;"	v
+ch11Counts	old_files/samplesCollection_ncd.py	/^ch11Counts = []$/;"	v
+ch12	old_files/channelRunsJune27.py	/^ch12 = [12, '0x43c001e4', '0x43c00168', '0x43c0016c']$/;"	v
+ch12	old_files/channelRunsJune28.py	/^ch12 = [12, '0x43c001e4', '0x43c00168', '0x43c0016c']$/;"	v
+ch12	old_files/purmTest2.py	/^ch12 = [12, '0x43c001e4', '0x43c00168', '0x43c0016c']$/;"	v
+ch12	old_files/sample_cal_ncd.py	/^ch12 = [12, '0x43c001e4', '0x43c00168', '0x43c0016c']$/;"	v
+ch12	old_files/sample_cal_srak.py	/^ch12 = [12, '0x43c001e4', '0x43c00168', '0x43c0016c']$/;"	v
+ch12	old_files/samplesCollection.py	/^ch12 = [12, '0x43c001e4', '0x43c00168', '0x43c0016c']$/;"	v
+ch12	old_files/samplesCollection_module_ncd.py	/^ch12 = [12, '0x43c001e4', '0x43c00168', '0x43c0016c']$/;"	v
+ch12	old_files/samplesCollection_ncd.py	/^ch12 = [12, '0x43c001e4', '0x43c00168', '0x43c0016c']$/;"	v
+ch12Counts	old_files/calibration_sweep_ncd.py	/^ch12Counts = []$/;"	v
+ch12Counts	old_files/calibration_sweep_srak.py	/^ch12Counts = []$/;"	v
+ch12Counts	old_files/channelRunsJune27.py	/^ch12Counts = []$/;"	v
+ch12Counts	old_files/channelRunsJune28.py	/^ch12Counts = []$/;"	v
+ch12Counts	old_files/purmTest2.py	/^ch12Counts = []$/;"	v
+ch12Counts	old_files/sample_cal_ncd.py	/^ch12Counts = []$/;"	v
+ch12Counts	old_files/samplesCollection.py	/^ch12Counts = []$/;"	v
+ch12Counts	old_files/samplesCollection_module_ncd.py	/^ch12Counts = []$/;"	v
+ch12Counts	old_files/samplesCollection_ncd.py	/^ch12Counts = []$/;"	v
+ch13	old_files/channelRunsJune27.py	/^ch13 = [13, '0x43c001e8', '0x43c00170', '0x43c00174']$/;"	v
+ch13	old_files/channelRunsJune28.py	/^ch13 = [13, '0x43c001e8', '0x43c00170', '0x43c00174']$/;"	v
+ch13	old_files/purmTest2.py	/^ch13 = [13, '0x43c001e8', '0x43c00170', '0x43c00174']$/;"	v
+ch13	old_files/sample_cal_ncd.py	/^ch13 = [13, '0x43c001e8', '0x43c00170', '0x43c00174']$/;"	v
+ch13	old_files/sample_cal_srak.py	/^ch13 = [13, '0x43c001e8', '0x43c00170', '0x43c00174']$/;"	v
+ch13	old_files/samplesCollection.py	/^ch13 = [13, '0x43c001e8', '0x43c00170', '0x43c00174']$/;"	v
+ch13	old_files/samplesCollection_module_ncd.py	/^ch13 = [13, '0x43c001e8', '0x43c00170', '0x43c00174']$/;"	v
+ch13	old_files/samplesCollection_ncd.py	/^ch13 = [13, '0x43c001e8', '0x43c00170', '0x43c00174']$/;"	v
+ch13Counts	old_files/calibration_sweep_ncd.py	/^ch13Counts = []$/;"	v
+ch13Counts	old_files/calibration_sweep_srak.py	/^ch13Counts = []$/;"	v
+ch13Counts	old_files/channelRunsJune27.py	/^ch13Counts = []$/;"	v
+ch13Counts	old_files/channelRunsJune28.py	/^ch13Counts = []$/;"	v
+ch13Counts	old_files/purmTest2.py	/^ch13Counts = []$/;"	v
+ch13Counts	old_files/sample_cal_ncd.py	/^ch13Counts = []$/;"	v
+ch13Counts	old_files/samplesCollection.py	/^ch13Counts = []$/;"	v
+ch13Counts	old_files/samplesCollection_module_ncd.py	/^ch13Counts = []$/;"	v
+ch13Counts	old_files/samplesCollection_ncd.py	/^ch13Counts = []$/;"	v
+ch14	old_files/channelRunsJune27.py	/^ch14 = [14, '0x43c001ec', '0x43c00178', '0x43c0017c']$/;"	v
+ch14	old_files/channelRunsJune28.py	/^ch14 = [14, '0x43c001ec', '0x43c00178', '0x43c0017c']$/;"	v
+ch14	old_files/purmTest2.py	/^ch14 = [14, '0x43c001ec', '0x43c00178', '0x43c0017c']$/;"	v
+ch14	old_files/sample_cal_ncd.py	/^ch14 = [14, '0x43c001ec', '0x43c00178', '0x43c0017c']$/;"	v
+ch14	old_files/sample_cal_srak.py	/^ch14 = [14, '0x43c001ec', '0x43c00178', '0x43c0017c']$/;"	v
+ch14	old_files/samplesCollection.py	/^ch14 = [14, '0x43c001ec', '0x43c00178', '0x43c0017c']$/;"	v
+ch14	old_files/samplesCollection_module_ncd.py	/^ch14 = [14, '0x43c001ec', '0x43c00178', '0x43c0017c']$/;"	v
+ch14	old_files/samplesCollection_ncd.py	/^ch14 = [14, '0x43c001ec', '0x43c00178', '0x43c0017c']$/;"	v
+ch14Counts	old_files/calibration_sweep_ncd.py	/^ch14Counts = []$/;"	v
+ch14Counts	old_files/calibration_sweep_srak.py	/^ch14Counts = []$/;"	v
+ch14Counts	old_files/channelRunsJune27.py	/^ch14Counts = []$/;"	v
+ch14Counts	old_files/channelRunsJune28.py	/^ch14Counts = []$/;"	v
+ch14Counts	old_files/purmTest2.py	/^ch14Counts = []$/;"	v
+ch14Counts	old_files/sample_cal_ncd.py	/^ch14Counts = []$/;"	v
+ch14Counts	old_files/samplesCollection.py	/^ch14Counts = []$/;"	v
+ch14Counts	old_files/samplesCollection_module_ncd.py	/^ch14Counts = []$/;"	v
+ch14Counts	old_files/samplesCollection_ncd.py	/^ch14Counts = []$/;"	v
+ch15	old_files/channelRunsJune27.py	/^ch15 = [15, '0x43c001f0', '0x43c00180', '0x43c00184']$/;"	v
+ch15	old_files/channelRunsJune28.py	/^ch15 = [15, '0x43c001f0', '0x43c00180', '0x43c00184']$/;"	v
+ch15	old_files/purmTest2.py	/^ch15 = [15, '0x43c001f0', '0x43c00180', '0x43c00184']$/;"	v
+ch15	old_files/sample_cal_ncd.py	/^ch15 = [15, '0x43c001f0', '0x43c00180', '0x43c00184']$/;"	v
+ch15	old_files/sample_cal_srak.py	/^ch15 = [15, '0x43c001f0', '0x43c00180', '0x43c00184']$/;"	v
+ch15	old_files/samplesCollection.py	/^ch15 = [15, '0x43c001f0', '0x43c00180', '0x43c00184']$/;"	v
+ch15	old_files/samplesCollection_module_ncd.py	/^ch15 = [15, '0x43c001f0', '0x43c00180', '0x43c00184']$/;"	v
+ch15	old_files/samplesCollection_ncd.py	/^ch15 = [15, '0x43c001f0', '0x43c00180', '0x43c00184']$/;"	v
+ch15Counts	old_files/calibration_sweep_ncd.py	/^ch15Counts = []$/;"	v
+ch15Counts	old_files/calibration_sweep_srak.py	/^ch15Counts = []$/;"	v
+ch15Counts	old_files/channelRunsJune27.py	/^ch15Counts = []$/;"	v
+ch15Counts	old_files/channelRunsJune28.py	/^ch15Counts = []$/;"	v
+ch15Counts	old_files/purmTest2.py	/^ch15Counts = []$/;"	v
+ch15Counts	old_files/sample_cal_ncd.py	/^ch15Counts = []$/;"	v
+ch15Counts	old_files/samplesCollection.py	/^ch15Counts = []$/;"	v
+ch15Counts	old_files/samplesCollection_module_ncd.py	/^ch15Counts = []$/;"	v
+ch15Counts	old_files/samplesCollection_ncd.py	/^ch15Counts = []$/;"	v
+ch15_almost_empty	old_files/trig_and_read_FIFO_ch0.py	/^        ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15/;"	v
+ch15_almost_empty	old_files/trig_and_read_FIFO_ch0.py	/^ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty =/;"	v
+ch15_almost_empty	old_files/trig_and_read_FIFO_ch15.py	/^	ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty /;"	v
+ch15_almost_empty	old_files/trig_and_read_FIFO_ch15.py	/^ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty =/;"	v
+ch15_almost_full	old_files/trig_and_read_FIFO_ch0.py	/^        ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15/;"	v
+ch15_almost_full	old_files/trig_and_read_FIFO_ch0.py	/^ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty =/;"	v
+ch15_almost_full	old_files/trig_and_read_FIFO_ch15.py	/^	ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty /;"	v
+ch15_almost_full	old_files/trig_and_read_FIFO_ch15.py	/^ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty =/;"	v
+ch15_empty	old_files/trig_and_read_FIFO_ch0.py	/^        ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15/;"	v
+ch15_empty	old_files/trig_and_read_FIFO_ch0.py	/^ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty =/;"	v
+ch15_empty	old_files/trig_and_read_FIFO_ch15.py	/^	ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty /;"	v
+ch15_empty	old_files/trig_and_read_FIFO_ch15.py	/^ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty =/;"	v
+ch15_full	old_files/trig_and_read_FIFO_ch0.py	/^        ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15/;"	v
+ch15_full	old_files/trig_and_read_FIFO_ch0.py	/^ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty =/;"	v
+ch15_full	old_files/trig_and_read_FIFO_ch15.py	/^	ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty /;"	v
+ch15_full	old_files/trig_and_read_FIFO_ch15.py	/^ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty =/;"	v
+ch15_rd_rst_busy	old_files/trig_and_read_FIFO_ch0.py	/^        ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15/;"	v
+ch15_rd_rst_busy	old_files/trig_and_read_FIFO_ch0.py	/^ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty =/;"	v
+ch15_rd_rst_busy	old_files/trig_and_read_FIFO_ch15.py	/^	ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty /;"	v
+ch15_rd_rst_busy	old_files/trig_and_read_FIFO_ch15.py	/^ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty =/;"	v
+ch15_wr_rst_busy	old_files/trig_and_read_FIFO_ch0.py	/^        ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15/;"	v
+ch15_wr_rst_busy	old_files/trig_and_read_FIFO_ch0.py	/^ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty =/;"	v
+ch15_wr_rst_busy	old_files/trig_and_read_FIFO_ch15.py	/^	ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty /;"	v
+ch15_wr_rst_busy	old_files/trig_and_read_FIFO_ch15.py	/^ch15_wr_rst_busy, ch15_almost_full, ch15_full, ch15_rd_rst_busy, ch15_almost_empty, ch15_empty =/;"	v
+ch1Counts	old_files/calibration_sweep_ncd.py	/^ch1Counts = []$/;"	v
+ch1Counts	old_files/calibration_sweep_srak.py	/^ch1Counts = []$/;"	v
+ch1Counts	old_files/channelRunsJune27.py	/^ch1Counts = []$/;"	v
+ch1Counts	old_files/channelRunsJune28.py	/^ch1Counts = []$/;"	v
+ch1Counts	old_files/purmTest2.py	/^ch1Counts = []$/;"	v
+ch1Counts	old_files/sample_cal_ncd.py	/^ch1Counts = []$/;"	v
+ch1Counts	old_files/samplesCollection.py	/^ch1Counts = []$/;"	v
+ch1Counts	old_files/samplesCollection_module_ncd.py	/^ch1Counts = []$/;"	v
+ch1Counts	old_files/samplesCollection_ncd.py	/^ch1Counts = []$/;"	v
+ch2	old_files/channelRunsJune27.py	/^ch2 = [2, '0x43c001bc', '0x43c00118', '0x43c0011c']$/;"	v
+ch2	old_files/channelRunsJune28.py	/^ch2 = [2, '0x43c001bc', '0x43c00118', '0x43c0011c']$/;"	v
+ch2	old_files/purmTest2.py	/^ch2 = [2, '0x43c001bc', '0x43c00118', '0x43c0011c']$/;"	v
+ch2	old_files/sample_cal_ncd.py	/^ch2 = [2, '0x43c001bc', '0x43c00118', '0x43c0011c']$/;"	v
+ch2	old_files/sample_cal_srak.py	/^ch2 = [2, '0x43c001bc', '0x43c00118', '0x43c0011c']$/;"	v
+ch2	old_files/samplesCollection.py	/^ch2 = [2, '0x43c001bc', '0x43c00118', '0x43c0011c']$/;"	v
+ch2	old_files/samplesCollection_module_ncd.py	/^ch2 = [2, '0x43c001bc', '0x43c00118', '0x43c0011c']$/;"	v
+ch2	old_files/samplesCollection_ncd.py	/^ch2 = [2, '0x43c001bc', '0x43c00118', '0x43c0011c']$/;"	v
+ch2Counts	old_files/calibration_sweep_ncd.py	/^ch2Counts = []$/;"	v
+ch2Counts	old_files/calibration_sweep_srak.py	/^ch2Counts = []$/;"	v
+ch2Counts	old_files/channelRunsJune27.py	/^ch2Counts = []$/;"	v
+ch2Counts	old_files/channelRunsJune28.py	/^ch2Counts = []$/;"	v
+ch2Counts	old_files/purmTest2.py	/^ch2Counts = []$/;"	v
+ch2Counts	old_files/sample_cal_ncd.py	/^ch2Counts = []$/;"	v
+ch2Counts	old_files/samplesCollection.py	/^ch2Counts = []$/;"	v
+ch2Counts	old_files/samplesCollection_module_ncd.py	/^ch2Counts = []$/;"	v
+ch2Counts	old_files/samplesCollection_ncd.py	/^ch2Counts = []$/;"	v
+ch3	old_files/channelRunsJune27.py	/^ch3 = [3, '0x43c001c0', '0x43c00120', '0x43c00124']$/;"	v
+ch3	old_files/channelRunsJune28.py	/^ch3 = [3, '0x43c001c0', '0x43c00120', '0x43c00124']$/;"	v
+ch3	old_files/purmTest2.py	/^ch3 = [3, '0x43c001c0', '0x43c00120', '0x43c00124']$/;"	v
+ch3	old_files/sample_cal_ncd.py	/^ch3 = [3, '0x43c001c0', '0x43c00120', '0x43c00124']$/;"	v
+ch3	old_files/sample_cal_srak.py	/^ch3 = [3, '0x43c001c0', '0x43c00120', '0x43c00124']$/;"	v
+ch3	old_files/samplesCollection.py	/^ch3 = [3, '0x43c001c0', '0x43c00120', '0x43c00124']$/;"	v
+ch3	old_files/samplesCollection_module_ncd.py	/^ch3 = [3, '0x43c001c0', '0x43c00120', '0x43c00124']$/;"	v
+ch3	old_files/samplesCollection_ncd.py	/^ch3 = [3, '0x43c001c0', '0x43c00120', '0x43c00124']$/;"	v
+ch3Counts	old_files/calibration_sweep_ncd.py	/^ch3Counts = []$/;"	v
+ch3Counts	old_files/calibration_sweep_srak.py	/^ch3Counts = []$/;"	v
+ch3Counts	old_files/channelRunsJune27.py	/^ch3Counts = []$/;"	v
+ch3Counts	old_files/channelRunsJune28.py	/^ch3Counts = []$/;"	v
+ch3Counts	old_files/purmTest2.py	/^ch3Counts = []$/;"	v
+ch3Counts	old_files/sample_cal_ncd.py	/^ch3Counts = []$/;"	v
+ch3Counts	old_files/samplesCollection.py	/^ch3Counts = []$/;"	v
+ch3Counts	old_files/samplesCollection_module_ncd.py	/^ch3Counts = []$/;"	v
+ch3Counts	old_files/samplesCollection_ncd.py	/^ch3Counts = []$/;"	v
+ch4	old_files/channelRunsJune27.py	/^ch4 = [4, '0x43c001c4', '0x43c00128', '0x43c0012c']$/;"	v
+ch4	old_files/channelRunsJune28.py	/^ch4 = [4, '0x43c001c4', '0x43c00128', '0x43c0012c']$/;"	v
+ch4	old_files/purmTest2.py	/^ch4 = [4, '0x43c001c4', '0x43c00128', '0x43c0012c']$/;"	v
+ch4	old_files/sample_cal_ncd.py	/^ch4 = [4, '0x43c001c4', '0x43c00128', '0x43c0012c']$/;"	v
+ch4	old_files/sample_cal_srak.py	/^ch4 = [4, '0x43c001c4', '0x43c00128', '0x43c0012c']$/;"	v
+ch4	old_files/samplesCollection.py	/^ch4 = [4, '0x43c001c4', '0x43c00128', '0x43c0012c']$/;"	v
+ch4	old_files/samplesCollection_module_ncd.py	/^ch4 = [4, '0x43c001c4', '0x43c00128', '0x43c0012c']$/;"	v
+ch4	old_files/samplesCollection_ncd.py	/^ch4 = [4, '0x43c001c4', '0x43c00128', '0x43c0012c']$/;"	v
+ch4Counts	old_files/calibration_sweep_ncd.py	/^ch4Counts = []$/;"	v
+ch4Counts	old_files/calibration_sweep_srak.py	/^ch4Counts = []$/;"	v
+ch4Counts	old_files/channelRunsJune27.py	/^ch4Counts = []$/;"	v
+ch4Counts	old_files/channelRunsJune28.py	/^ch4Counts = []$/;"	v
+ch4Counts	old_files/purmTest2.py	/^ch4Counts = []$/;"	v
+ch4Counts	old_files/sample_cal_ncd.py	/^ch4Counts = []$/;"	v
+ch4Counts	old_files/samplesCollection.py	/^ch4Counts = []$/;"	v
+ch4Counts	old_files/samplesCollection_module_ncd.py	/^ch4Counts = []$/;"	v
+ch4Counts	old_files/samplesCollection_ncd.py	/^ch4Counts = []$/;"	v
+ch5	old_files/channelRunsJune27.py	/^ch5 = [5, '0x43c001c8', '0x43c00130', '0x43c00134']$/;"	v
+ch5	old_files/channelRunsJune28.py	/^ch5 = [5, '0x43c001c8', '0x43c00130', '0x43c00134']$/;"	v
+ch5	old_files/purmTest2.py	/^ch5 = [5, '0x43c001c8', '0x43c00130', '0x43c00134']$/;"	v
+ch5	old_files/sample_cal_ncd.py	/^ch5 = [5, '0x43c001c8', '0x43c00130', '0x43c00134']$/;"	v
+ch5	old_files/sample_cal_srak.py	/^ch5 = [5, '0x43c001c8', '0x43c00130', '0x43c00134']$/;"	v
+ch5	old_files/samplesCollection.py	/^ch5 = [5, '0x43c001c8', '0x43c00130', '0x43c00134']$/;"	v
+ch5	old_files/samplesCollection_module_ncd.py	/^ch5 = [5, '0x43c001c8', '0x43c00130', '0x43c00134']$/;"	v
+ch5	old_files/samplesCollection_ncd.py	/^ch5 = [5, '0x43c001c8', '0x43c00130', '0x43c00134']$/;"	v
+ch5Counts	old_files/calibration_sweep_ncd.py	/^ch5Counts = []$/;"	v
+ch5Counts	old_files/calibration_sweep_srak.py	/^ch5Counts = []$/;"	v
+ch5Counts	old_files/channelRunsJune27.py	/^ch5Counts = []$/;"	v
+ch5Counts	old_files/channelRunsJune28.py	/^ch5Counts = []$/;"	v
+ch5Counts	old_files/purmTest2.py	/^ch5Counts = []$/;"	v
+ch5Counts	old_files/sample_cal_ncd.py	/^ch5Counts = []$/;"	v
+ch5Counts	old_files/samplesCollection.py	/^ch5Counts = []$/;"	v
+ch5Counts	old_files/samplesCollection_module_ncd.py	/^ch5Counts = []$/;"	v
+ch5Counts	old_files/samplesCollection_ncd.py	/^ch5Counts = []$/;"	v
+ch6	old_files/channelRunsJune27.py	/^ch6 = [6, '0x43c001cc', '0x43c00138', '0x43c0013c']$/;"	v
+ch6	old_files/channelRunsJune28.py	/^ch6 = [6, '0x43c001cc', '0x43c00138', '0x43c0013c']$/;"	v
+ch6	old_files/purmTest2.py	/^ch6 = [6, '0x43c001cc', '0x43c00138', '0x43c0013c']$/;"	v
+ch6	old_files/sample_cal_ncd.py	/^ch6 = [6, '0x43c001cc', '0x43c00138', '0x43c0013c']$/;"	v
+ch6	old_files/sample_cal_srak.py	/^ch6 = [6, '0x43c001cc', '0x43c00138', '0x43c0013c']$/;"	v
+ch6	old_files/samplesCollection.py	/^ch6 = [6, '0x43c001cc', '0x43c00138', '0x43c0013c']$/;"	v
+ch6	old_files/samplesCollection_module_ncd.py	/^ch6 = [6, '0x43c001cc', '0x43c00138', '0x43c0013c']$/;"	v
+ch6	old_files/samplesCollection_ncd.py	/^ch6 = [6, '0x43c001cc', '0x43c00138', '0x43c0013c']$/;"	v
+ch6Counts	old_files/calibration_sweep_ncd.py	/^ch6Counts = []$/;"	v
+ch6Counts	old_files/calibration_sweep_srak.py	/^ch6Counts = []$/;"	v
+ch6Counts	old_files/channelRunsJune27.py	/^ch6Counts = []$/;"	v
+ch6Counts	old_files/channelRunsJune28.py	/^ch6Counts = []$/;"	v
+ch6Counts	old_files/purmTest2.py	/^ch6Counts = []$/;"	v
+ch6Counts	old_files/sample_cal_ncd.py	/^ch6Counts = []$/;"	v
+ch6Counts	old_files/samplesCollection.py	/^ch6Counts = []$/;"	v
+ch6Counts	old_files/samplesCollection_module_ncd.py	/^ch6Counts = []$/;"	v
+ch6Counts	old_files/samplesCollection_ncd.py	/^ch6Counts = []$/;"	v
+ch7	old_files/channelRunsJune27.py	/^ch7 = [7, '0x43c001d0', '0x43c00140', '0x43c00144']$/;"	v
+ch7	old_files/channelRunsJune28.py	/^ch7 = [7, '0x43c001d0', '0x43c00140', '0x43c00144']$/;"	v
+ch7	old_files/purmTest2.py	/^ch7 = [7, '0x43c001d0', '0x43c00140', '0x43c00144']$/;"	v
+ch7	old_files/sample_cal_ncd.py	/^ch7 = [7, '0x43c001d0', '0x43c00140', '0x43c00144']$/;"	v
+ch7	old_files/sample_cal_srak.py	/^ch7 = [7, '0x43c001d0', '0x43c00140', '0x43c00144']$/;"	v
+ch7	old_files/samplesCollection.py	/^ch7 = [7, '0x43c001d0', '0x43c00140', '0x43c00144']$/;"	v
+ch7	old_files/samplesCollection_module_ncd.py	/^ch7 = [7, '0x43c001d0', '0x43c00140', '0x43c00144']$/;"	v
+ch7	old_files/samplesCollection_ncd.py	/^ch7 = [7, '0x43c001d0', '0x43c00140', '0x43c00144']$/;"	v
+ch7Counts	old_files/calibration_sweep_ncd.py	/^ch7Counts = []$/;"	v
+ch7Counts	old_files/calibration_sweep_srak.py	/^ch7Counts = []$/;"	v
+ch7Counts	old_files/channelRunsJune27.py	/^ch7Counts = []$/;"	v
+ch7Counts	old_files/channelRunsJune28.py	/^ch7Counts = []$/;"	v
+ch7Counts	old_files/purmTest2.py	/^ch7Counts = []$/;"	v
+ch7Counts	old_files/sample_cal_ncd.py	/^ch7Counts = []$/;"	v
+ch7Counts	old_files/samplesCollection.py	/^ch7Counts = []$/;"	v
+ch7Counts	old_files/samplesCollection_module_ncd.py	/^ch7Counts = []$/;"	v
+ch7Counts	old_files/samplesCollection_ncd.py	/^ch7Counts = []$/;"	v
+ch8	old_files/channelRunsJune27.py	/^ch8 = [8, '0x43c001d4', '0x43c00148', '0x43c0014c']$/;"	v
+ch8	old_files/channelRunsJune28.py	/^ch8 = [8, '0x43c001d4', '0x43c00148', '0x43c0014c']$/;"	v
+ch8	old_files/purmTest2.py	/^ch8 = [8, '0x43c001d4', '0x43c00148', '0x43c0014c']$/;"	v
+ch8	old_files/sample_cal_ncd.py	/^ch8 = [8, '0x43c001d4', '0x43c00148', '0x43c0014c']$/;"	v
+ch8	old_files/sample_cal_srak.py	/^ch8 = [8, '0x43c001d4', '0x43c00148', '0x43c0014c']$/;"	v
+ch8	old_files/samplesCollection.py	/^ch8 = [8, '0x43c001d4', '0x43c00148', '0x43c0014c']$/;"	v
+ch8	old_files/samplesCollection_module_ncd.py	/^ch8 = [8, '0x43c001d4', '0x43c00148', '0x43c0014c']$/;"	v
+ch8	old_files/samplesCollection_ncd.py	/^ch8 = [8, '0x43c001d4', '0x43c00148', '0x43c0014c']$/;"	v
+ch8Counts	old_files/calibration_sweep_ncd.py	/^ch8Counts = []$/;"	v
+ch8Counts	old_files/calibration_sweep_srak.py	/^ch8Counts = []$/;"	v
+ch8Counts	old_files/channelRunsJune27.py	/^ch8Counts = []$/;"	v
+ch8Counts	old_files/channelRunsJune28.py	/^ch8Counts = []$/;"	v
+ch8Counts	old_files/purmTest2.py	/^ch8Counts = []$/;"	v
+ch8Counts	old_files/sample_cal_ncd.py	/^ch8Counts = []$/;"	v
+ch8Counts	old_files/samplesCollection.py	/^ch8Counts = []$/;"	v
+ch8Counts	old_files/samplesCollection_module_ncd.py	/^ch8Counts = []$/;"	v
+ch8Counts	old_files/samplesCollection_ncd.py	/^ch8Counts = []$/;"	v
+ch9	old_files/channelRunsJune27.py	/^ch9 = [9, '0x43c001d8', '0x43c00150', '0x43c00154']$/;"	v
+ch9	old_files/channelRunsJune28.py	/^ch9 = [9, '0x43c001d8', '0x43c00150', '0x43c00154']$/;"	v
+ch9	old_files/purmTest2.py	/^ch9 = [9, '0x43c001d8', '0x43c00150', '0x43c00154']$/;"	v
+ch9	old_files/sample_cal_ncd.py	/^ch9 = [9, '0x43c001d8', '0x43c00150', '0x43c00154']$/;"	v
+ch9	old_files/sample_cal_srak.py	/^ch9 = [9, '0x43c001d8', '0x43c00150', '0x43c00154']$/;"	v
+ch9	old_files/samplesCollection.py	/^ch9 = [9, '0x43c001d8', '0x43c00150', '0x43c00154']$/;"	v
+ch9	old_files/samplesCollection_module_ncd.py	/^ch9 = [9, '0x43c001d8', '0x43c00150', '0x43c00154']$/;"	v
+ch9	old_files/samplesCollection_ncd.py	/^ch9 = [9, '0x43c001Wd8', '0x43c00150', '0x43c00W154']$/;"	v
+ch9Counts	old_files/calibration_sweep_ncd.py	/^ch9Counts = []$/;"	v
+ch9Counts	old_files/calibration_sweep_srak.py	/^ch9Counts = []$/;"	v
+ch9Counts	old_files/channelRunsJune27.py	/^ch9Counts = []$/;"	v
+ch9Counts	old_files/channelRunsJune28.py	/^ch9Counts = []$/;"	v
+ch9Counts	old_files/purmTest2.py	/^ch9Counts = []$/;"	v
+ch9Counts	old_files/sample_cal_ncd.py	/^ch9Counts = []$/;"	v
+ch9Counts	old_files/samplesCollection.py	/^ch9Counts = []$/;"	v
+ch9Counts	old_files/samplesCollection_module_ncd.py	/^ch9Counts = []$/;"	v
+ch9Counts	old_files/samplesCollection_ncd.py	/^ch9Counts = []$/;"	v
+ch_almost_empty	old_files/get_samples.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_empty	old_files/get_samples.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_almost_empty	old_files/get_samplesV2.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_empty	old_files/get_samplesV2.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_almost_empty	old_files/get_samples_TEST.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_empty	old_files/get_samples_TEST.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_almost_empty	old_files/get_samples_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_empty	old_files/get_samples_ncd.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_almost_empty	old_files/run_Calibrate_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_empty	old_files/run_Calibrate_ncd.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_almost_empty	old_files/trials_get_samples.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_empty	old_files/trials_get_samples.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_almost_empty	old_files/trig_and_read_FIFO_all_ch.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_empty	old_files/trig_and_read_FIFO_all_ch.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_almost_empty	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_empty	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_almost_empty	old_files/trig_and_read_FIFO_all_ch_window.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_empty	old_files/trig_and_read_FIFO_all_ch_window.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_almost_full	old_files/get_samples.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_full	old_files/get_samples.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_almost_full	old_files/get_samplesV2.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_full	old_files/get_samplesV2.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_almost_full	old_files/get_samples_TEST.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_full	old_files/get_samples_TEST.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_almost_full	old_files/get_samples_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_full	old_files/get_samples_ncd.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_almost_full	old_files/run_Calibrate_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_full	old_files/run_Calibrate_ncd.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_almost_full	old_files/trials_get_samples.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_full	old_files/trials_get_samples.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_almost_full	old_files/trig_and_read_FIFO_all_ch.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_full	old_files/trig_and_read_FIFO_all_ch.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_almost_full	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_full	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_almost_full	old_files/trig_and_read_FIFO_all_ch_window.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_almost_full	old_files/trig_and_read_FIFO_all_ch_window.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_empty	old_files/get_samples.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_empty	old_files/get_samples.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_empty	old_files/get_samplesV2.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_empty	old_files/get_samplesV2.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_empty	old_files/get_samples_TEST.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_empty	old_files/get_samples_TEST.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_empty	old_files/get_samples_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_empty	old_files/get_samples_ncd.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_empty	old_files/run_Calibrate_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_empty	old_files/run_Calibrate_ncd.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_empty	old_files/trials_get_samples.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_empty	old_files/trials_get_samples.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_empty	old_files/trig_and_read_FIFO_all_ch.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_empty	old_files/trig_and_read_FIFO_all_ch.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_empty	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_empty	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_empty	old_files/trig_and_read_FIFO_all_ch_window.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_empty	old_files/trig_and_read_FIFO_all_ch_window.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_full	old_files/get_samples.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_full	old_files/get_samples.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_full	old_files/get_samplesV2.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_full	old_files/get_samplesV2.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_full	old_files/get_samples_TEST.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_full	old_files/get_samples_TEST.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_full	old_files/get_samples_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_full	old_files/get_samples_ncd.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_full	old_files/run_Calibrate_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_full	old_files/run_Calibrate_ncd.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_full	old_files/trials_get_samples.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_full	old_files/trials_get_samples.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_full	old_files/trig_and_read_FIFO_all_ch.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_full	old_files/trig_and_read_FIFO_all_ch.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_full	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_full	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_full	old_files/trig_and_read_FIFO_all_ch_window.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_full	old_files/trig_and_read_FIFO_all_ch_window.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_rd_rst_busy	old_files/get_samples.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_rd_rst_busy	old_files/get_samples.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_rd_rst_busy	old_files/get_samplesV2.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_rd_rst_busy	old_files/get_samplesV2.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_rd_rst_busy	old_files/get_samples_TEST.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_rd_rst_busy	old_files/get_samples_TEST.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_rd_rst_busy	old_files/get_samples_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_rd_rst_busy	old_files/get_samples_ncd.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_rd_rst_busy	old_files/run_Calibrate_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_rd_rst_busy	old_files/run_Calibrate_ncd.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_rd_rst_busy	old_files/trials_get_samples.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_rd_rst_busy	old_files/trials_get_samples.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_rd_rst_busy	old_files/trig_and_read_FIFO_all_ch.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_rd_rst_busy	old_files/trig_and_read_FIFO_all_ch.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_rd_rst_busy	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_rd_rst_busy	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_rd_rst_busy	old_files/trig_and_read_FIFO_all_ch_window.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_rd_rst_busy	old_files/trig_and_read_FIFO_all_ch_window.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_wr_rst_busy	old_files/get_samples.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_wr_rst_busy	old_files/get_samples.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_wr_rst_busy	old_files/get_samplesV2.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_wr_rst_busy	old_files/get_samplesV2.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_wr_rst_busy	old_files/get_samples_TEST.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_wr_rst_busy	old_files/get_samples_TEST.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_wr_rst_busy	old_files/get_samples_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_wr_rst_busy	old_files/get_samples_ncd.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_wr_rst_busy	old_files/run_Calibrate_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_wr_rst_busy	old_files/run_Calibrate_ncd.py	/^    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch/;"	v
+ch_wr_rst_busy	old_files/trials_get_samples.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_wr_rst_busy	old_files/trials_get_samples.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_wr_rst_busy	old_files/trig_and_read_FIFO_all_ch.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_wr_rst_busy	old_files/trig_and_read_FIFO_all_ch.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_wr_rst_busy	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_wr_rst_busy	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+ch_wr_rst_busy	old_files/trig_and_read_FIFO_all_ch_window.py	/^            ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty =/;"	v
+ch_wr_rst_busy	old_files/trig_and_read_FIFO_all_ch_window.py	/^        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = rea/;"	v
+channel	commands/set_DACs.py	/^	channel = "0x01"$/;"	v
+channel	commands/set_DACs.py	/^	channel = "0x02"$/;"	v
+channel	old_files/set_Thresholds.py	/^	channel = "0x01"$/;"	v
+channel	old_files/set_Thresholds.py	/^	channel = "0x02"$/;"	v
+channelCounts	old_files/calibration_sweep_ncd.py	/^channelCounts = copy_channelCounts.copy() # Then revert to it!  -ncd$/;"	v
+channelCounts	old_files/calibration_sweep_ncd.py	/^channelCounts=[ch0Counts, ch1Counts, ch2Counts, ch3Counts, ch4Counts, ch5Counts, ch6Counts, ch7C/;"	v
+channelCounts	old_files/calibration_sweep_srak.py	/^channelCounts = copy_channelCounts.copy() # Then revert to it!  -ncd$/;"	v
+channelCounts	old_files/calibration_sweep_srak.py	/^channelCounts=[ch0Counts, ch1Counts, ch2Counts, ch3Counts, ch4Counts, ch5Counts, ch6Counts, ch7C/;"	v
+channelCounts	old_files/channelRunsJune27.py	/^channelCounts=[ch0Counts, ch1Counts, ch2Counts, ch3Counts, ch4Counts, ch5Counts, ch6Counts, ch7C/;"	v
+channelCounts	old_files/channelRunsJune28.py	/^channelCounts=[ch0Counts, ch1Counts, ch2Counts, ch3Counts, ch4Counts, ch5Counts, ch6Counts, ch7C/;"	v
+channelCounts	old_files/purmTest2.py	/^channelCounts=[ch0Counts, ch1Counts, ch2Counts, ch3Counts, ch4Counts, ch5Counts, ch6Counts, ch7C/;"	v
+channelCounts	old_files/sample_cal_ncd.py	/^channelCounts = copy_channelCounts.copy() # Then revert to it!  -ncd$/;"	v
+channelCounts	old_files/sample_cal_ncd.py	/^channelCounts=[ch0Counts, ch1Counts, ch2Counts, ch3Counts, ch4Counts, ch5Counts, ch6Counts, ch7C/;"	v
+channelCounts	old_files/samplesCollection.py	/^channelCounts=[ch0Counts, ch1Counts, ch2Counts, ch3Counts, ch4Counts, ch5Counts, ch6Counts, ch7C/;"	v
+channelCounts	old_files/samplesCollection_module_ncd.py	/^channelCounts=[ch0Counts, ch1Counts, ch2Counts, ch3Counts, ch4Counts, ch5Counts, ch6Counts, ch7C/;"	v
+channelCounts	old_files/samplesCollection_ncd.py	/^channelCounts=[ch0Counts, ch1Counts, ch2Counts, ch3Counts, ch4Counts, ch5Counts, ch6Counts, ch7C/;"	v
+channelSimulation	old_files/channelRunsJune27.py	/^def channelSimulation(c, i):$/;"	f
+channelSimulation	old_files/channelRunsJune28.py	/^def channelSimulation(c, i):$/;"	f
+channelSimulation	old_files/myModules.py	/^def channelSimulation(c, i ): $/;"	f
+channelSimulation	old_files/sample_cal_ncd.py	/^def channelSimulation(c, i):$/;"	f
+channelSimulation	old_files/sample_cal_srak.py	/^def channelSimulation(c, i, cc):$/;"	f
+channelSimulation	old_files/samplesCollection.py	/^def channelSimulation(c, i):$/;"	f
+channelSimulation	old_files/samplesCollection_ncd.py	/^def channelSimulation(c, i):$/;"	f
+channelSimulationT	old_files/myModules.py	/^def channelSimulationT(c, i, channelCounts): $/;"	f
+channels	old_files/channelRunsJune27.py	/^channels=[ch0, ch1, ch2, ch3, ch4, ch5, ch6, ch7, ch8, ch9, ch10, ch11, ch12, ch13, ch14, ch15]$/;"	v
+channels	old_files/channelRunsJune28.py	/^channels=[ch0, ch1, ch2, ch3, ch4, ch5, ch6, ch7, ch8, ch9, ch10, ch11, ch12, ch13, ch14, ch15]$/;"	v
+channels	old_files/make_calibrationcurve.py	/^channels = [8, 10, 11, 12, 13, 14, 15]$/;"	v
+channels	old_files/purmTest2.py	/^channels=[ch0, ch1, ch2, ch3, ch4, ch5, ch6, ch7, ch8, ch9, ch10, ch11, ch12, ch13, ch14, ch15]$/;"	v
+channels	old_files/sample_cal_ncd.py	/^channels=[ch0, ch1, ch2, ch3, ch4, ch5, ch6, ch7, ch8, ch9, ch10, ch11, ch12, ch13, ch14, ch15]$/;"	v
+channels	old_files/sample_cal_srak.py	/^channels=[ch0, ch1, ch2, ch3, ch4, ch5, ch6, ch7, ch8, ch9, ch10, ch11, ch12, ch13, ch14, ch15]$/;"	v
+channels	old_files/samplesCollection.py	/^channels=[ch0, ch1, ch2, ch3, ch4, ch5, ch6, ch7, ch8, ch9, ch10, ch11, ch12, ch13, ch14, ch15]$/;"	v
+channels	old_files/samplesCollection_module_ncd.py	/^channels=[ch0, ch1, ch2, ch3, ch4, ch5, ch6, ch7, ch8, ch9, ch10, ch11, ch12, ch13, ch14, ch15]$/;"	v
+channels	old_files/samplesCollection_ncd.py	/^channels=[ch0, ch1, ch2, ch3, ch4, ch5, ch6, ch7, ch8, ch9, ch10, ch11, ch12, ch13, ch14, ch15]$/;"	v
+cht	old_files/channelRunsJune27.py	/^        cht = channels[i]$/;"	v
+cht	old_files/channelRunsJune28.py	/^        cht = channels[i]$/;"	v
+cht	old_files/purmTest2.py	/^	cht = channels[i]$/;"	v
+command	commands/set_DAC7578.py	/^	command = 'i2cset -y 1 ' + dac_addr + ' 0x0' + str(channel) + ' 0x' + msn + ' 0x' + lsn + ' i'$/;"	v
+command	commands/set_DACs.py	/^command = 'i2cset -y 0 ' + dac_addr + ' ' + channel + ' ' + word + ' w'$/;"	v
+command	old_files/calibration_sweep_srak.py	/^command = dac_command(0, 0.7590, 1.000)   # 0.7611v (3896)$/;"	v
+command	old_files/set_DAC2.py	/^    command = 'i2cset -y 1 ' + dac_addr + ' 0x0' + str(channel) + ' 0x' + msn + ' 0x' + lsn + ' /;"	v
+command	old_files/set_DAC2_srak.py	/^command = dac2_command(0, 0.800, 1.137)$/;"	v
+command	old_files/set_DAC2_srak.py	/^command = dac2_command(1, 0.800, 1.137)$/;"	v
+command	old_files/set_DAC2_srak.py	/^command = dac2_command(2, 0.800, 1.137)$/;"	v
+command	old_files/set_DAC2_srak.py	/^command = dac2_command(3, 0.800, 1.137)$/;"	v
+command	old_files/set_DAC2_srak.py	/^command = dac2_command(4, 0.800, 1.137)$/;"	v
+command	old_files/set_DAC2_srak.py	/^command = dac2_command(5, 0.800, 1.137)$/;"	v
+command	old_files/set_DAC2_srak.py	/^command = dac2_command(6, 0.800, 1.137)$/;"	v
+command	old_files/set_DAC2_srak.py	/^command = dac2_command(7, 0.800, 1.137)$/;"	v
+command	old_files/set_DAC7578.py	/^	command = 'i2cset -y 1 ' + dac_addr + ' 0x0' + str(channel) + ' 0x' + msn + ' 0x' + lsn + ' i'$/;"	v
+command	old_files/set_DAC7578_chan_COLD_ncd.py	/^command = dac_command(0, 0.7630, 0.800)   # 0.7611v (3896)$/;"	v
+command	old_files/set_DAC7578_chan_COLD_ncd.py	/^command = dac_command(1, 0.762, 0.800)   #0.7572 (3876)$/;"	v
+command	old_files/set_DAC7578_chan_COLD_ncd.py	/^command = dac_command(2, 0.775, 0.800)  # 0.7615 (3898) $/;"	v
+command	old_files/set_DAC7578_chan_COLD_ncd.py	/^command = dac_command(3, 0.775, 0.800)   # 0.759 (1962) $/;"	v
+command	old_files/set_DAC7578_chan_COLD_ncd.py	/^command = dac_command(4, 0.775, 0.800)  # 0.7602 (3892) $/;"	v
+command	old_files/set_DAC7578_chan_COLD_ncd.py	/^command = dac_command(5, 0.775, 0.800) $/;"	v
+command	old_files/set_DAC7578_chan_COLD_ncd.py	/^command = dac_command(6, 0.775, 0.800)  # 0.7632 (3907) $/;"	v
+command	old_files/set_DAC7578_chan_COLD_ncd.py	/^command = dac_command(7, 0.775, 0.800)  # 0.7590 (3886)  $/;"	v
+command	old_files/set_DAC7578_chan_ncd.py	/^command = dac_command(0, 0.801, 1.007)  # 0.7584 (3883) $/;"	v
+command	old_files/set_DAC7578_chan_ncd.py	/^command = dac_command(1, 0.801, 1.007) # 0.7589 (3885)$/;"	v
+command	old_files/set_DAC7578_chan_ncd.py	/^command = dac_command(2, 0.801, 1.007)  # 0.7604 (3893) $/;"	v
+command	old_files/set_DAC7578_chan_ncd.py	/^command = dac_command(3, 0.801, 1.007)   # 0.7600 (3891) $/;"	v
+command	old_files/set_DAC7578_chan_ncd.py	/^command = dac_command(4, 0.801, 1.007)  # 0.7599 (3890) $/;"	v
+command	old_files/set_DAC7578_chan_ncd.py	/^command = dac_command(5, 0.801, 1.007)   #0.7583 (3881)$/;"	v
+command	old_files/set_DAC7578_chan_ncd.py	/^command = dac_command(6, 0.8, 1.007)   # 0.7611v (3896)$/;"	v
+command	old_files/set_DAC7578_chan_ncd.py	/^command = dac_command(7, 0.8, 1.007)   # 0.7611v (3896)$/;"	v
+command	old_files/set_DAC7578_ncd.py	/^	command = 'i2cset -y 1 ' + dac_addr + ' 0x0' + str(channel) + ' 0x' + msn + ' 0x' + lsn + ' i'$/;"	v
+command	old_files/set_Thresholds.py	/^command = 'i2cset -y 0 ' + dac_addr + ' ' + channel + ' ' + word + ' w'$/;"	v
+command	old_files/set_cold_DAC7578_chan_ncd.py	/^command = dac_command(0, 0.7590, 0.800)   # 0.7611v (3896)$/;"	v
+command	old_files/set_cold_DAC7578_chan_ncd.py	/^command = dac_command(1, 0.7595, 0.800)   #0.7583 (3881)$/;"	v
+command	old_files/set_cold_DAC7578_chan_ncd.py	/^command = dac_command(2, 0.7615, 0.800)  # 0.7599 (3890) $/;"	v
+command	old_files/set_cold_DAC7578_chan_ncd.py	/^command = dac_command(3, 0.7598, 0.800)   # 0.7600 (3891) $/;"	v
+command	old_files/set_cold_DAC7578_chan_ncd.py	/^command = dac_command(4, 0.7609, 0.800)  # 0.7604 (3893) $/;"	v
+command	old_files/set_cold_DAC7578_chan_ncd.py	/^command = dac_command(5, 0.8799, 0.800) # 0.7589 (3885)$/;"	v
+command	old_files/set_cold_DAC7578_chan_ncd.py	/^command = dac_command(6, 0.7605, 0.800)  # 0.7584 (3883) $/;"	v
+command	old_files/set_cold_DAC7578_chan_ncd.py	/^command = dac_command(7, 0.7355, 0.800)  # COLD $/;"	v
+command	old_files/set_warm_DAC7578_chan_ncd.py	/^command = dac_command(0, 0.7611, 0.800)   # 0.7611v (3896)$/;"	v
+command	old_files/set_warm_DAC7578_chan_ncd.py	/^command = dac_command(1, 0.7580, 0.800)   #0.7583 (3881)$/;"	v
+command	old_files/set_warm_DAC7578_chan_ncd.py	/^command = dac_command(2, 0.7599, 0.800)  # 0.7599 (3890) $/;"	v
+command	old_files/set_warm_DAC7578_chan_ncd.py	/^command = dac_command(3, 0.7598, 0.800)   # 0.7600 (3891) $/;"	v
+command	old_files/set_warm_DAC7578_chan_ncd.py	/^command = dac_command(4, 0.7600, 0.800)  # 0.7604 (3893) $/;"	v
+command	old_files/set_warm_DAC7578_chan_ncd.py	/^command = dac_command(5, 0.7589, 0.800) # 0.7589 (3885)$/;"	v
+command	old_files/set_warm_DAC7578_chan_ncd.py	/^command = dac_command(6, 0.7580, 0.800)  # 0.7584 (3883) $/;"	v
+command	old_files/set_warm_DAC7578_chan_ncd.py	/^command = dac_command(7, 0.7555, 0.800)  # 0.7560 (3870)  $/;"	v
+config_file	configure.py	/^config_file = sys.argv[2]$/;"	v
+config_file	run_calibration.py	/^config_file = 'configs\/calibration.cfg'$/;"	v
+copy_channelCounts	old_files/calibration_sweep_ncd.py	/^copy_channelCounts = channelCounts.copy() # Make a backup copy of this list -ncd$/;"	v
+copy_channelCounts	old_files/calibration_sweep_srak.py	/^copy_channelCounts = channelCounts.copy() # Make a backup copy of this list -ncd$/;"	v
+copy_channelCounts	old_files/sample_cal_ncd.py	/^copy_channelCounts = channelCounts.copy() # Make a backup copy of this list -ncd$/;"	v
+counter	old_files/get_samples.py	/^            counter = counter+1;$/;"	v
+counter	old_files/get_samples.py	/^    counter = 0$/;"	v
+counter	old_files/get_samplesV2.py	/^            counter = counter+1;$/;"	v
+counter	old_files/get_samplesV2.py	/^        counter = 0$/;"	v
+counter	old_files/get_samples_TEST.py	/^            counter = counter+1;$/;"	v
+counter	old_files/get_samples_TEST.py	/^    counter = 0$/;"	v
+counter	old_files/get_samples_ncd.py	/^            counter = counter+1;$/;"	v
+counter	old_files/get_samples_ncd.py	/^    counter = 0$/;"	v
+counter	old_files/run_Calibrate_ncd.py	/^            counter = counter+1;$/;"	v
+counter	old_files/run_Calibrate_ncd.py	/^    counter = 0$/;"	v
+counter	old_files/trials_get_samples.py	/^            counter = counter+1;$/;"	v
+counter	old_files/trials_get_samples.py	/^        counter = 0$/;"	v
+counter	old_files/trig_and_read_FIFO_all_ch.py	/^            counter = counter+1;$/;"	v
+counter	old_files/trig_and_read_FIFO_all_ch.py	/^        counter = 0$/;"	v
+counter	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^            counter = counter+1;$/;"	v
+counter	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^        counter = 0$/;"	v
+counter	old_files/trig_and_read_FIFO_all_ch_window.py	/^            counter = counter+1;$/;"	v
+counter	old_files/trig_and_read_FIFO_all_ch_window.py	/^        counter = 0$/;"	v
+counter	old_files/trig_and_read_FIFO_ch0.py	/^        counter = counter+1;$/;"	v
+counter	old_files/trig_and_read_FIFO_ch0.py	/^counter = 0$/;"	v
+counts	commands/set_DAC7578.py	/^	counts = 0x000$/;"	v
+counts	commands/set_DAC7578.py	/^	counts = 0xfff$/;"	v
+counts	commands/set_DACs.py	/^	counts = 0$/;"	v
+counts	commands/set_DACs.py	/^	counts = 0x3ff$/;"	v
+counts	old_files/set_DAC2.py	/^    counts = 0x000$/;"	v
+counts	old_files/set_DAC2.py	/^    counts = 0xfff$/;"	v
+counts	old_files/set_DAC7578.py	/^	counts = 0x000$/;"	v
+counts	old_files/set_DAC7578.py	/^	counts = 0xfff$/;"	v
+counts	old_files/set_DAC7578_ncd.py	/^	counts = 0x000$/;"	v
+counts	old_files/set_DAC7578_ncd.py	/^	counts = 0xfff$/;"	v
+counts	old_files/set_Thresholds.py	/^	counts = 0$/;"	v
+counts	old_files/set_Thresholds.py	/^	counts = 0x3ff$/;"	v
+counts	run_calibration.py	/^                counts = [counts[c] for counts in all_counts]$/;"	v
+counts	run_sampling.py	/^        counts = [counts[c] for counts in all_counts]$/;"	v
+counts	run_sampling_sweep.py	/^            counts = [counts[c] for counts in all_counts]$/;"	v
+counts_formatted	commands/set_DAC7578.py	/^counts_formatted = str.format('{:04X}', counts << 4)$/;"	v
+counts_formatted	commands/set_DACs.py	/^counts_formatted = str.format('0x{:04X}', counts << 2)$/;"	v
+counts_formatted	old_files/set_DAC2.py	/^counts_formatted = str.format('{:04X}', counts << 4)$/;"	v
+counts_formatted	old_files/set_DAC7578.py	/^counts_formatted = str.format('{:04X}', counts << 4)$/;"	v
+counts_formatted	old_files/set_DAC7578_ncd.py	/^counts_formatted = str.format('{:04X}', counts << 4)$/;"	v
+counts_formatted	old_files/set_Thresholds.py	/^counts_formatted = str.format('0x{:04X}', counts << 2)$/;"	v
+csvfile	old_files/make_calibrationcurve.py	/^    csvfile = open(fname, "r")$/;"	v
+csvreader	old_files/make_calibrationcurve.py	/^    csvreader = csv.reader(csvfile)$/;"	v
+ctrl_addr	commands/serial_interface.py	/^    ctrl_addr = '0x43c00004 '$/;"	v
+ctrl_addr	commands/serial_interface.py	/^    ctrl_addr = '0x43c0000c '$/;"	v
+ctrl_addr	old_files/ReadLatchedData.py	/^    ctrl_addr = '0x43c00004 '$/;"	v
+ctrl_addr	old_files/ReadLatchedData.py	/^    ctrl_addr = '0x43c0000c '$/;"	v
+ctrl_addr	old_files/Serial_Interface-fix.py	/^    ctrl_addr = '0x43c00004 '$/;"	v
+ctrl_addr	old_files/Serial_Interface-fix.py	/^    ctrl_addr = '0x43c0000c '$/;"	v
+ctrl_addr	old_files/Serial_Interface-fix1.py	/^    ctrl_addr = '0x43c00004 '$/;"	v
+ctrl_addr	old_files/Serial_Interface-fix1.py	/^    ctrl_addr = '0x43c0000c '$/;"	v
+ctrl_addr	old_files/Serial_Interface.py	/^    ctrl_addr = '0x43c00004 '$/;"	v
+ctrl_addr	old_files/Serial_Interface.py	/^    ctrl_addr = '0x43c0000c '$/;"	v
+ctrl_bits	commands/set_DACs.py	/^ctrl_bits = "2"$/;"	v
+ctrl_bits	old_files/set_Thresholds.py	/^ctrl_bits = "2"$/;"	v
+current_ts	old_files/get_samples.py	/^            current_ts = read_ch_fifo(ch, ts_hi_reg, ts_lo_reg)$/;"	v
+current_ts	old_files/get_samplesV2.py	/^            current_ts = read_ch_fifo(ch, ts_hi_reg, ts_lo_reg)$/;"	v
+current_ts	old_files/get_samples_TEST.py	/^            current_ts = read_ch_fifo(ch, ts_hi_reg, ts_lo_reg)$/;"	v
+current_ts	old_files/get_samples_ncd.py	/^            current_ts = read_ch_fifo(ch, ts_hi_reg, ts_lo_reg)$/;"	v
+current_ts	old_files/run_Calibrate_ncd.py	/^            current_ts = read_ch_fifo(ch, ts_hi_reg, ts_lo_reg)$/;"	v
+current_ts	old_files/trials_get_samples.py	/^            current_ts = read_ch_fifo(ch, ts_hi_reg, ts_lo_reg)$/;"	v
+current_ts	old_files/trig_and_read_FIFO_all_ch.py	/^            current_ts = read_ch_fifo(ch, ts_hi_reg, ts_lo_reg)$/;"	v
+current_ts	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^            current_ts = read_ch_fifo(ch, ts_hi_reg, ts_lo_reg)$/;"	v
+current_ts	old_files/trig_and_read_FIFO_all_ch_window.py	/^            current_ts = read_ch_fifo(ch, ts_hi_reg, ts_lo_reg)$/;"	v
+current_ts	old_files/trig_and_read_FIFO_ch0.py	/^        current_ts = read_ch15_fifo()$/;"	v
+current_ts	old_files/trig_and_read_FIFO_ch15.py	/^	current_ts = read_ch15_fifo()$/;"	v
+dac2_command	old_files/set_DAC2_srak.py	/^def dac2_command(channel, vset, vref): $/;"	f
+dac_addr	commands/set_DAC7578.py	/^dac_addr = "0x48"$/;"	v
+dac_addr	commands/set_DACs.py	/^	dac_addr = "0x0c"$/;"	v
+dac_addr	commands/set_DACs.py	/^	dac_addr = "0x0d"$/;"	v
+dac_addr	old_files/set_DAC2.py	/^dac_addr = "0x49"$/;"	v
+dac_addr	old_files/set_DAC7578.py	/^dac_addr = "0x48"$/;"	v
+dac_addr	old_files/set_DAC7578_ncd.py	/^dac_addr = "0x48"$/;"	v
+dac_addr	old_files/set_Thresholds.py	/^	dac_addr = "0x0c"$/;"	v
+dac_addr	old_files/set_Thresholds.py	/^	dac_addr = "0x0d"$/;"	v
+dac_addr	set_DAC7578_sweep.py	/^dac_addr = "0x48"$/;"	v
+dac_addr	set_DAC7578_sweep_bipar.py	/^dac_addr = "0x48"$/;"	v
+dac_command	old_files/set_DAC7578_chan_COLD_ncd.py	/^def dac_command(channel, vset, vref):  # returns a DAC command -mcd $/;"	f
+dac_command	old_files/set_DAC7578_chan_ncd.py	/^def dac_command(channel, vset, vref):  # returns a DAC command -mcd $/;"	f
+dac_command	old_files/set_cold_DAC7578_chan_ncd.py	/^def dac_command(channel, vset, vref):  # returns a DAC command -mcd $/;"	f
+dac_command	old_files/set_warm_DAC7578_chan_ncd.py	/^def dac_command(channel, vset, vref):  # returns a DAC command -mcd $/;"	f
+dac_settings	old_files/make_calibrationcurve.py	/^dac_settings = [i for i in range(31, 14, -1)]$/;"	v
+data	commands/integrator_rst.py	/^    data = '0x00000004'$/;"	v
+data	commands/integrator_rst.py	/^    data = '0x00000008'$/;"	v
+data	commands/serial_interface.py	/^data = sys.argv[2]$/;"	v
+data	commands/test_pulse.py	/^    data = '0x00000004'$/;"	v
+data	commands/test_pulse.py	/^    data = '0x00000008'$/;"	v
+data	commands/toggle_hold_reset.py	/^    		data = '0x00000020'$/;"	v
+data	commands/toggle_hold_reset.py	/^    		data = '0x00000040'$/;"	v
+data	commands/toggle_hold_reset.py	/^    data = '0x00000000'$/;"	v
+data	old_files/Clock_50MHz.py	/^    data = '0x00000000'$/;"	v
+data	old_files/Clock_50MHz.py	/^    data = '0x00030000'$/;"	v
+data	old_files/Integrator_rst.py	/^    data = '0x00000004'$/;"	v
+data	old_files/Integrator_rst.py	/^    data = '0x00000008'$/;"	v
+data	old_files/Integrator_rst_fix.py	/^    data = '0x00000004'$/;"	v
+data	old_files/Integrator_rst_fix.py	/^    data = '0x00000008'$/;"	v
+data	old_files/Serial_Interface-fix.py	/^data = sys.argv[2]$/;"	v
+data	old_files/Serial_Interface-fix1.py	/^data = sys.argv[2]$/;"	v
+data	old_files/Serial_Interface.py	/^data = sys.argv[2]$/;"	v
+data	old_files/Testpulse.py	/^    data = '0x00000004'$/;"	v
+data	old_files/Testpulse.py	/^    data = '0x00000008'$/;"	v
+data	old_files/get_samples.py	/^    data = []$/;"	v
+data	old_files/get_samplesV2.py	/^        data = []$/;"	v
+data	old_files/get_samples_TEST.py	/^    data = []$/;"	v
+data	old_files/get_samples_ncd.py	/^    data = []$/;"	v
+data	old_files/hold_reset.py	/^    		data = '0x00000020'$/;"	v
+data	old_files/hold_reset.py	/^    		data = '0x00000040'$/;"	v
+data	old_files/hold_reset.py	/^    data = '0x00000000'$/;"	v
+data	old_files/hold_reset_ak.py	/^    data = '0x00000040'$/;"	v
+data	old_files/run_Calibrate_ncd.py	/^    data = []$/;"	v
+data	old_files/trials_get_samples.py	/^        data = []$/;"	v
+data	old_files/trig_and_read_FIFO_all_ch.py	/^        data = []$/;"	v
+data	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^        data = []$/;"	v
+data	old_files/trig_and_read_FIFO_all_ch_window.py	/^        data = []$/;"	v
+data	old_files/trig_and_read_FIFO_ch0.py	/^data = []$/;"	v
+data	old_files/trig_and_read_FIFO_ch15.py	/^data = []$/;"	v
+data_addr	commands/serial_interface.py	/^    data_addr = '0x43c00008 '$/;"	v
+data_addr	commands/serial_interface.py	/^    data_addr = '0x43c00010 '$/;"	v
+data_addr	old_files/Serial_Interface-fix.py	/^    data_addr = '0x43c00008 '$/;"	v
+data_addr	old_files/Serial_Interface-fix.py	/^    data_addr = '0x43c00010 '$/;"	v
+data_addr	old_files/Serial_Interface-fix1.py	/^    data_addr = '0x43c00008 '$/;"	v
+data_addr	old_files/Serial_Interface-fix1.py	/^    data_addr = '0x43c00010 '$/;"	v
+data_addr	old_files/Serial_Interface.py	/^    data_addr = '0x43c00008 '$/;"	v
+data_addr	old_files/Serial_Interface.py	/^    data_addr = '0x43c00010 '$/;"	v
+decade	old_files/purmTest.py	/^def decade():$/;"	f
+decade	old_files/purmTest2.py	/^def decade(c, i):$/;"	f
+decimalNum	old_files/channelSweep.py	/^decimalNum = 31$/;"	v
+decimalNum	old_files/currentSweep.py	/^decimalNum = 31$/;"	v
+decimalNum	old_files/currentSweep0.py	/^decimalNum = 31$/;"	v
+decimalNum	old_files/currentSweep_ncdFIX.py	/^decimalNum = 31$/;"	v
+delay	old_files/sample_ncd.py	/^delay = 1e-6        # Max Delay is 1.3ms!$/;"	v
+delta_t	run_calibration.py	/^delta_t = 0$/;"	v
+external_clock	run_calibration.py	/^external_clock = True$/;"	v
+external_clock	run_sampling.py	/^external_clock = True$/;"	v
+external_clock	run_sampling_sweep.py	/^external_clock = True$/;"	v
+external_clock_on	send_trigger.py	/^external_clock_on = False$/;"	v
+f	old_files/samplesCollection_module_ncd.py	/^f = open("dataBasket1.txt", "w+")$/;"	v
+f	old_files/samplesCollection_ncd.py	/^f = open("dataBasket1.txt", "w+")$/;"	v
+fdata	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^fdata = open("checkTimeStamps.csv", "a")   # -ncd$/;"	v
+first_five	old_files/make_calibrationcurve.py	/^        first_five = values[0:n_trials]$/;"	v
+fname	old_files/make_calibrationcurve.py	/^    fname = "fch" + str(c) + ".csv"$/;"	v
+fname	run_calibration.py	/^            fname = f'outputs\/ch{c}_calib.txt'$/;"	v
+fname	run_calibration.py	/^    fname = f'outputs\/ch{c}_calib.txt'$/;"	v
+get_channel_registers	commands/helper_functions.py	/^def get_channel_registers(c):$/;"	f
+get_channels_in_use	commands/helper_functions.py	/^def get_channels_in_use():$/;"	f
+hex_command	run_calibration.py	/^        hex_command = make_hex_command(DAC_setting)$/;"	v
+hits	old_files/get_samples.py	/^    hits = [] $/;"	v
+hits	old_files/get_samples_TEST.py	/^    hits = [] $/;"	v
+hits	old_files/get_samples_ncd.py	/^    hits = [] $/;"	v
+hits	old_files/run_Calibrate_ncd.py	/^    hits = [] $/;"	v
+hits	old_files/trials_get_samples.py	/^    hits=[]$/;"	v
+i	run_calibration.py	/^i = 0$/;"	v
+i2c_raw	commands/set_DAC7578.py	/^	i2c_raw = os.popen(command).read()$/;"	v
+i2c_raw	commands/set_DACs.py	/^i2c_raw = os.popen(command).read()$/;"	v
+i2c_raw	old_files/calibration_sweep_srak.py	/^i2c_raw = os.popen(command).read()$/;"	v
+i2c_raw	old_files/set_DAC2.py	/^    i2c_raw = os.popen(command).read()$/;"	v
+i2c_raw	old_files/set_DAC2_srak.py	/^i2c_raw = os.popen(command).read()$/;"	v
+i2c_raw	old_files/set_DAC7578.py	/^	i2c_raw = os.popen(command).read()$/;"	v
+i2c_raw	old_files/set_DAC7578_chan_COLD_ncd.py	/^i2c_raw = os.popen(command).read()$/;"	v
+i2c_raw	old_files/set_DAC7578_chan_ncd.py	/^i2c_raw = os.popen(command).read()$/;"	v
+i2c_raw	old_files/set_DAC7578_ncd.py	/^	i2c_raw = os.popen(command).read()$/;"	v
+i2c_raw	old_files/set_Thresholds.py	/^i2c_raw = os.popen(command).read()$/;"	v
+i2c_raw	old_files/set_cold_DAC7578_chan_ncd.py	/^i2c_raw = os.popen(command).read()$/;"	v
+i2c_raw	old_files/set_warm_DAC7578_chan_ncd.py	/^i2c_raw = os.popen(command).read()$/;"	v
+interface	commands/integrator_rst.py	/^    interface = sys.argv[1]$/;"	v
+interface	commands/serial_interface.py	/^    interface = sys.argv[1]$/;"	v
+interface	commands/test_pulse.py	/^    interface = sys.argv[1]$/;"	v
+interface	configure.py	/^interface = sys.argv[1]$/;"	v
+interface	old_files/Integrator_rst.py	/^    interface = sys.argv[1]$/;"	v
+interface	old_files/Integrator_rst_fix.py	/^    interface = sys.argv[1]$/;"	v
+interface	old_files/ReadLatchedData.py	/^    interface = sys.argv[1]$/;"	v
+interface	old_files/Serial_Interface-fix.py	/^    interface = sys.argv[1]$/;"	v
+interface	old_files/Serial_Interface-fix1.py	/^    interface = sys.argv[1]$/;"	v
+interface	old_files/Serial_Interface.py	/^    interface = sys.argv[1]$/;"	v
+interface	old_files/Testpulse.py	/^    interface = sys.argv[1]$/;"	v
+interface	run_calibration.py	/^interface = 1$/;"	v
+interface	run_sampling.py	/^interface = 1$/;"	v
+interface	run_sampling_sweep.py	/^interface = 2$/;"	v
+last_line	old_files/make_calibrationcurve.py	/^    last_line = csvreader[-1]$/;"	v
+lsb	commands/set_DACs.py	/^lsb = counts_formatted[4:6]$/;"	v
+lsb	old_files/set_Thresholds.py	/^lsb = counts_formatted[4:6]$/;"	v
+lsn	commands/set_DAC7578.py	/^lsn = counts_formatted[2:4]$/;"	v
+lsn	old_files/set_DAC2.py	/^lsn = counts_formatted[2:4]$/;"	v
+lsn	old_files/set_DAC7578.py	/^lsn = counts_formatted[2:4]$/;"	v
+lsn	old_files/set_DAC7578_ncd.py	/^lsn = counts_formatted[2:4]$/;"	v
+makeLists	old_files/sample_cal_srak.py	/^def makeLists():$/;"	f
+make_five	run_calibration.py	/^def make_five(dacNum):$/;"	f
+make_hex_command	run_calibration.py	/^def make_hex_command(DAC_setting): $/;"	f
+make_serial_command	commands/helper_functions.py	/^def make_serial_command(settings_string): #takes input in binary$/;"	f
+max_iterations	set_DAC7578_sweep.py	/^max_iterations = 2000  # Maximum number of sweeps per channel$/;"	v
+max_iterations	set_DAC7578_sweep_bipar.py	/^max_iterations = 100  # Maximum number of iterations per channel$/;"	v
+max_vset	set_DAC7578_sweep.py	/^max_vset = vref  # Maximum value for v_set$/;"	v
+max_vset	set_DAC7578_sweep_bipar.py	/^max_vset = vref     # Maximum value for v_set$/;"	v
+mean	old_files/make_calibrationcurve.py	/^        mean = 100\/np.mean(first_five)$/;"	v
+means	old_files/make_calibrationcurve.py	/^    means = []$/;"	v
+msb	commands/set_DACs.py	/^msb = counts_formatted[3:4]$/;"	v
+msb	old_files/set_Thresholds.py	/^msb = counts_formatted[3:4]$/;"	v
+msn	commands/set_DAC7578.py	/^msn = counts_formatted[0:2] $/;"	v
+msn	old_files/set_DAC2.py	/^msn = counts_formatted[0:2] $/;"	v
+msn	old_files/set_DAC7578.py	/^msn = counts_formatted[0:2] $/;"	v
+msn	old_files/set_DAC7578_ncd.py	/^msn = counts_formatted[0:2] $/;"	v
+my	old_files/sample_cal_ncd.py	/^import myModules as my$/;"	I	nameref:module:myModules
+my	old_files/sample_cal_srak.py	/^import myModules as my$/;"	I	nameref:module:myModules
+my	old_files/sample_ncd.py	/^import myModules as my$/;"	I	nameref:module:myModules
+my	old_files/samplesCollection_module_ncd.py	/^import myModules as my$/;"	I	nameref:module:myModules
+n_trials	old_files/make_calibrationcurve.py	/^n_trials = 5$/;"	v
+nope	old_files/samplesCollection.py	/^        nope = 0$/;"	v
+nope	old_files/samplesCollection_module_ncd.py	/^            nope = 0$/;"	v
+nope	old_files/samplesCollection_ncd.py	/^            nope = 0$/;"	v
+notWorking	old_files/samplesCollection.py	/^notWorking = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,15]$/;"	v
+notWorking	old_files/samplesCollection_module_ncd.py	/^notWorking = [0,1,2,3,4,5,6,7,8] #[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]$/;"	v
+notWorking	old_files/samplesCollection_ncd.py	/^notWorking = [0,1,2,3,4,5,6,7,9] $/;"	v
+np	old_files/make_calibrationcurve.py	/^import numpy as np$/;"	I	nameref:module:numpy
+numTrials	old_files/calibration_sweep_ncd.py	/^numTrials = 1$/;"	v
+numTrials	old_files/calibration_sweep_srak.py	/^numTrials = 1$/;"	v
+numTrials	old_files/currentSweep_ncd.py	/^numTrials = 10$/;"	v
+numTrials	old_files/sample_cal_srak.py	/^numTrials = 1$/;"	v
+numTrials	old_files/sample_ncd.py	/^numTrials = 1$/;"	v
+optimized_sweep	set_DAC7578_sweep_bipar.py	/^def optimized_sweep():$/;"	f
+output_file	run_sampling.py	/^output_file = 'outputs\/DAC_sweep_alex.txt'$/;"	v
+output_file	run_sampling_sweep.py	/^output_file = 'outputs\/sampling_resultsb4-717_chan15.txt'$/;"	v
+overwrite_old_file	run_sampling.py	/^overwrite_old_file = True$/;"	v
+overwrite_old_file	run_sampling_sweep.py	/^overwrite_old_file = False$/;"	v
+plt	old_files/make_calibrationcurve.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+process_channel	set_DAC7578_sweep_bipar.py	/^    def process_channel(channel):$/;"	f	function:optimized_sweep	file:
+read_ch15_fifo	old_files/trig_and_read_FIFO_ch0.py	/^def read_ch15_fifo():$/;"	f
+read_ch15_fifo	old_files/trig_and_read_FIFO_ch15.py	/^def read_ch15_fifo():$/;"	f
+read_ch15_status	old_files/trig_and_read_FIFO_ch0.py	/^def read_ch15_status():$/;"	f
+read_ch15_status	old_files/trig_and_read_FIFO_ch15.py	/^def read_ch15_status():$/;"	f
+read_ch_fifo	commands/helper_functions.py	/^def read_ch_fifo(c):$/;"	f
+read_ch_fifo	old_files/channelRunsJune27.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/channelRunsJune28.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/get_samples.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/get_samplesV2.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/get_samples_TEST.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/get_samples_ncd.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/myModules.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/purmTest.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/purmTest2.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/run_Calibrate_ncd.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/samplesCollection.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/samplesCollection_ncd.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/trials_get_samples.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/trig_and_read_FIFO_all_ch.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_fifo	old_files/trig_and_read_FIFO_all_ch_window.py	/^def read_ch_fifo(read_bit, ts_hi_reg, ts_lo_reg):$/;"	f
+read_ch_status	commands/helper_functions.py	/^def read_ch_status(c):$/;"	f
+read_ch_status	old_files/channelRunsJune27.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/channelRunsJune28.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/get_samples.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/get_samplesV2.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/get_samples_TEST.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/get_samples_ncd.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/myModules.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/purmTest.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/purmTest2.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/run_Calibrate_ncd.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/samplesCollection.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/samplesCollection_ncd.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/trials_get_samples.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/trig_and_read_FIFO_all_ch.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/trig_and_read_FIFO_all_ch_ncd.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_ch_status	old_files/trig_and_read_FIFO_all_ch_window.py	/^def read_ch_status(fifo_status_reg):$/;"	f
+read_config_file	commands/helper_functions.py	/^def read_config_file(filename):$/;"	f
+reset_width	init.py	/^reset_width = 5e-6$/;"	v
+reset_width	run_calibration.py	/^reset_width = 5e-6 #1e-6$/;"	v
+reset_width	run_sampling.py	/^reset_width = 5e-6$/;"	v
+reset_width	run_sampling_sweep.py	/^reset_width = 5e-6$/;"	v
+reset_width	send_trigger.py	/^reset_width = 50e-6$/;"	v
+rst_cal_gap	init.py	/^rst_cal_gap = 100e-9$/;"	v
+rst_cal_gap	run_calibration.py	/^rst_cal_gap = 100e-9$/;"	v
+rst_cal_gap	run_sampling.py	/^rst_cal_gap = 100e-9$/;"	v
+rst_cal_gap	run_sampling_sweep.py	/^rst_cal_gap = 100e-9$/;"	v
+run	old_files/currentSweep_ncdFIX.py	/^import sample_ncd as run$/;"	I	nameref:module:sample_ncd
+run_sampling	set_DAC7578_sweep.py	/^run_sampling = "run_sampling.py"$/;"	v
+run_sampling	set_DAC7578_sweep_bipar.py	/^run_sampling = "run_sampling.py"$/;"	v
+run_sampling_and_parse	set_DAC7578_sweep.py	/^def run_sampling_and_parse():$/;"	f
+run_sampling_and_parse	set_DAC7578_sweep_bipar.py	/^def run_sampling_and_parse():$/;"	f
+s	old_files/calibration_sweep_ncd.py	/^import sample_cal_ncd as s$/;"	I	nameref:module:sample_cal_ncd
+s	old_files/calibration_sweep_srak.py	/^import sample_cal_srak as s$/;"	I	nameref:module:sample_cal_srak
+s	old_files/currentSweep_ncd.py	/^import sample_ncd as s$/;"	I	nameref:module:sample_ncd
+s	old_files/sample_cal_ncd.py	/^import statistics as s$/;"	I	nameref:module:statistics
+s	old_files/sample_cal_srak.py	/^import statistics as s$/;"	I	nameref:module:statistics
+s	old_files/sample_ncd.py	/^import statistics as s$/;"	I	nameref:module:statistics
+sample	old_files/sample_ncd.py	/^def sample(winWidth, delay, numTrials, DECIMAL_replen):$/;"	f
+sample_cal	old_files/sample_cal_ncd.py	/^def sample_cal(numTrials, DECIMAL_replen):$/;"	f
+sample_cal	old_files/sample_cal_srak.py	/^def sample_cal(numTrials, DECIMAL_replen):$/;"	f
+sample_channel	commands/sampling_functions.py	/^def sample_channel(c): #sample one channel$/;"	f
+sample_n_trials	commands/sampling_functions.py	/^def sample_n_trials(trials_num, win_width=64e-6, win_wait=10e-6, reset_width=50e-6,\\$/;"	f
+sample_pulse	commands/helper_functions.py	/^def sample_pulse():$/;"	f
+sample_working_channels	commands/sampling_functions.py	/^def sample_working_channels(): #for one trial, sample all working channels$/;"	f
+serial_command	configure.py	/^serial_command = make_serial_command(settings_string)$/;"	v
+set_dac_all_channels	set_DAC7578_sweep.py	/^def set_dac_all_channels(vset, frozen_channels):$/;"	f
+set_dac_single_channel	set_DAC7578_sweep_bipar.py	/^def set_dac_single_channel(channel, vset):$/;"	f
+set_delta_t	commands/helper_functions.py	/^def set_delta_t(on): #set deltT_select (1 or 0)$/;"	f
+set_ext_clock	commands/helper_functions.py	/^def set_ext_clock(on):$/;"	f
+set_reset_width	commands/helper_functions.py	/^def set_reset_width(t): # set reset width in set$/;"	f
+set_rst_cal_gap	commands/helper_functions.py	/^def set_rst_cal_gap(t): # set reset cal gap in s$/;"	f
+set_sample_select	commands/helper_functions.py	/^def set_sample_select(on): #set sample_select (1 or 0)$/;"	f
+set_win_wait	commands/helper_functions.py	/^def set_win_wait(t): #set window wait in s$/;"	f
+set_win_width	commands/helper_functions.py	/^def set_win_width(t): # number of 50MHz clock ticks to sample data for$/;"	f
+settings_string	configure.py	/^settings_string = read_config_file(config_file)$/;"	v
+spamwriter	old_files/samplesCollection_module_ncd.py	/^    spamwriter = csv.writer(csvfile, delimiter=',' )$/;"	v
+spamwriter	old_files/samplesCollection_ncd.py	/^    spamwriter = csv.writer(csvfile, delimiter=',' )$/;"	v
+square	old_files/channelRunsJune27.py	/^def square(ch): $/;"	f
+square	old_files/channelRunsJune28.py	/^def square(ch): $/;"	f
+square	old_files/myModules.py	/^def square(ch): $/;"	f
+square	old_files/samplesCollection.py	/^def square(ch): $/;"	f
+square	old_files/samplesCollection_ncd.py	/^def square(ch): $/;"	f
+start_vset	set_DAC7578_sweep.py	/^start_vset = 0.7765  # Starting value for v_set$/;"	v
+start_vset	set_DAC7578_sweep_bipar.py	/^start_vset = 0.775  # Starting value for v_set$/;"	v
+startup	commands/helper_functions.py	/^def startup():$/;"	f
+stat	old_files/make_calibrationcurve.py	/^import statistics as stat$/;"	I	nameref:module:statistics
+state	old_files/Clock_50MHz.py	/^    state = sys.argv[1]$/;"	v
+stats	run_calibration.py	/^import statistics as stats$/;"	I	nameref:module:statistics
+stdDev	old_files/channelRunsJune27.py	/^def stdDev(ch): $/;"	f
+stdDev	old_files/channelRunsJune28.py	/^def stdDev(ch): $/;"	f
+stdDev	old_files/myModules.py	/^def stdDev(ch): $/;"	f
+stdDev	old_files/samplesCollection.py	/^def stdDev(ch): $/;"	f
+stdDev	old_files/samplesCollection_ncd.py	/^def stdDev(ch): $/;"	f
+stdev	old_files/make_calibrationcurve.py	/^        stdev = stat.stdev(first_five)$/;"	v
+stdevs	old_files/make_calibrationcurve.py	/^    stdevs = []$/;"	v
+step_size	set_DAC7578_sweep.py	/^step_size = 0.0001  # Increment step for v_set$/;"	v
+steps	commands/set_DAC7578.py	/^steps = vref\/4096$/;"	v
+steps	commands/set_DACs.py	/^steps = 1.2\/1024$/;"	v
+steps	old_files/set_DAC2.py	/^steps = vref\/4096$/;"	v
+steps	old_files/set_DAC7578.py	/^steps = vref\/4096$/;"	v
+steps	old_files/set_DAC7578_ncd.py	/^steps = vref\/4096$/;"	v
+steps	old_files/set_Thresholds.py	/^steps = 1.2\/1024$/;"	v
+sweep_all_channels	set_DAC7578_sweep.py	/^def sweep_all_channels():$/;"	f
+testNum	old_files/channelRunsJune28.py	/^    testNum = 1$/;"	v
+testNum	old_files/channelRunsJune28.py	/^testNum = int(sys.argv[1])$/;"	v
+testNum	old_files/channelSweep.py	/^     testNum = 1$/;"	v
+testNum	old_files/channelSweep.py	/^    testNum = 1$/;"	v
+testNum	old_files/currentSweep.py	/^     testNum = 1$/;"	v
+testNum	old_files/currentSweep.py	/^    testNum = 1$/;"	v
+testNum	old_files/currentSweep0.py	/^     testNum = 1$/;"	v
+testNum	old_files/currentSweep0.py	/^    testNum = 1$/;"	v
+testNum	old_files/currentSweep_ncdFIX.py	/^     testNum = 1$/;"	v
+testNum	old_files/currentSweep_ncdFIX.py	/^    testNum = 1$/;"	v
+testNum	old_files/samplesCollection.py	/^     testNum = 1$/;"	v
+testNum	old_files/samplesCollection.py	/^    testNum = 1$/;"	v
+testNum	old_files/samplesCollection_module_ncd.py	/^     testNum = 1$/;"	v
+testNum	old_files/samplesCollection_module_ncd.py	/^    testNum = 1$/;"	v
+testNum	old_files/samplesCollection_ncd.py	/^     testNum = 1$/;"	v
+testNum	old_files/samplesCollection_ncd.py	/^    testNum = 1$/;"	v
+time_on	old_files/hold_reset_ak.py	/^time_on = float(input())$/;"	v
+time_repeat	old_files/hold_reset_ak.py	/^time_repeat = float(input())$/;"	v
+tolerance	set_DAC7578_sweep_bipar.py	/^tolerance = 2       # Tolerance around target count of 10$/;"	v
+tp_threshold	init.py	/^tp_threshold = 0.800$/;"	v
+trials	old_files/get_samples.py	/^    trials = 2$/;"	v
+trials	old_files/get_samples_TEST.py	/^    trials = 1$/;"	v
+trials	old_files/get_samples_ncd.py	/^    trials = 1$/;"	v
+trials	old_files/run_Calibrate_ncd.py	/^    trials = 1$/;"	v
+trials	old_files/trials_get_samples.py	/^trials = 5 $/;"	v
+trials_num	run_calibration.py	/^trials_num  = 1$/;"	v
+trials_num	run_sampling.py	/^trials_num = 1$/;"	v
+trials_num	run_sampling_sweep.py	/^trials_num = 10$/;"	v
+trig_ts	old_files/trig_and_read_FIFO_ch15.py	/^trig_ts = (int(trig_ts_hi, 16) << 32) + int(trig_ts_lo, 16)$/;"	v
+trig_ts_hi	old_files/trig_and_read_FIFO_ch15.py	/^trig_ts_hi = os.popen('peek 0x43c00100').read()$/;"	v
+trig_ts_lo	old_files/trig_and_read_FIFO_ch15.py	/^trig_ts_lo = os.popen('peek 0x43c00104').read()$/;"	v
+values	old_files/make_calibrationcurve.py	/^        values = values[n_trials:]$/;"	v
+values	old_files/make_calibrationcurve.py	/^    values = [int(string) for string in values]$/;"	v
+values	old_files/make_calibrationcurve.py	/^    values = last_line.split(",")$/;"	v
+values	old_files/make_calibrationcurve.py	/^    values = values[2:]$/;"	v
+vcomp1_threshold	init.py	/^vcomp1_threshold = 0.780$/;"	v
+vcomp2_threshold	init.py	/^vcomp2_threshold = 0.9$/;"	v
+voltage	commands/set_DACs.py	/^voltage = float(sys.argv[3])$/;"	v
+voltage	old_files/set_Thresholds.py	/^voltage = float(sys.argv[3])$/;"	v
+voltage_tolerance	set_DAC7578_sweep_bipar.py	/^voltage_tolerance = 0.0001  # Voltage resolution for binary search$/;"	v
+vref	commands/set_DAC7578.py	/^vref = 1.6$/;"	v
+vref	old_files/set_DAC2.py	/^vref = 1.137$/;"	v
+vref	old_files/set_DAC7578.py	/^vref = 1.007$/;"	v
+vref	old_files/set_DAC7578_ncd.py	/^vref = 1.007$/;"	v
+vref	set_DAC7578_sweep.py	/^vref = 1.007$/;"	v
+vref	set_DAC7578_sweep_bipar.py	/^vref = 1.007$/;"	v
+vset	commands/set_DAC7578.py	/^vset = 0.8$/;"	v
+vset	old_files/set_DAC2.py	/^vset = 0.750$/;"	v
+vset	old_files/set_DAC7578.py	/^vset = 0.8$/;"	v
+vset	old_files/set_DAC7578_ncd.py	/^vset = 0.8$/;"	v
+width_Hex	old_files/samplesCollection_module_ncd.py	/^width_Hex = hex( int(winWidth\/20e-9) )$/;"	v
+width_Hex	old_files/samplesCollection_ncd.py	/^width_Hex = hex( int(winWidth\/20e-9) )$/;"	v
+winWidth	old_files/sample_ncd.py	/^winWidth = 50e-3   # Max Window width is 85.89 seconds! $/;"	v
+winWidth	old_files/samplesCollection_module_ncd.py	/^winWidth = 64e-6$/;"	v
+winWidth	old_files/samplesCollection_ncd.py	/^winWidth = 100e-3$/;"	v
+win_wait	run_calibration.py	/^win_wait = 5e-6 #1e-6$/;"	v
+win_wait	run_sampling.py	/^win_wait = 5e-6 $/;"	v
+win_wait	run_sampling_sweep.py	/^win_wait = 5e-6$/;"	v
+win_width	run_calibration.py	/^win_width = 100e-6 #200e-6$/;"	v
+win_width	run_sampling.py	/^win_width = 100e-6 #was 100e-3$/;"	v
+win_width_values	run_sampling_sweep.py	/^win_width_values = [500e-6, 1e-3,100e-3, 1, 2, 4, 8, 10, 20, 40]  # List of window widths to tes/;"	v
+word	commands/set_DACs.py	/^word = '0x' + lsb + ctrl_bits + msb$/;"	v
+word	old_files/set_Thresholds.py	/^word = '0x' + lsb + ctrl_bits + msb$/;"	v
+zero_count_threshold	set_DAC7578_sweep.py	/^zero_count_threshold = 1  # Stop sweeping if reset counts are zero for this many iterations$/;"	v
+zero_count_threshold	set_DAC7578_sweep_bipar.py	/^zero_count_threshold = 10  # Stop if zero counts for this many consecutive measurements$/;"	v

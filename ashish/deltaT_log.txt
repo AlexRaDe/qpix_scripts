@@ -1,0 +1,1405 @@
+
+-- DAC setting: 12 ---
+Trial 0: 38.454390 seconds
+Trial 1: 38.820370 seconds
+Trial 2: 39.004872 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 38.892952 seconds
+Trial 1: 38.846833 seconds
+Trial 2: 39.214357 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 36.733614 seconds
+Trial 1: 36.501300 seconds
+Trial 2: 36.727208 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 36.612989 seconds
+Trial 1: 36.677420 seconds
+Trial 2: 36.322123 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 63.250537 seconds
+Trial 1: 62.607524 seconds
+Trial 2: 62.582996 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 62.734020 seconds
+Trial 1: 63.011540 seconds
+Trial 2: 62.829931 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 49.031931 seconds
+Trial 1: 49.569224 seconds
+Trial 2: 49.594496 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 49.340522 seconds
+Trial 1: 49.234133 seconds
+Trial 2: 49.081524 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 39.403329 seconds
+Trial 1: 39.600815 seconds
+Trial 2: 39.346313 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 39.160839 seconds
+Trial 1: 39.538095 seconds
+Trial 2: 39.485800 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 37.047171 seconds
+Trial 1: 37.144449 seconds
+Trial 2: 37.118122 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 37.241701 seconds
+Trial 1: 37.440710 seconds
+Trial 2: 37.177889 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 44.627453 seconds
+Trial 1: 44.238663 seconds
+Trial 2: 44.639263 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 44.560319 seconds
+Trial 1: 44.526660 seconds
+Trial 2: 44.398713 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 37.472675 seconds
+Trial 1: 37.356075 seconds
+Trial 2: 37.236649 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 37.340862 seconds
+Trial 1: 37.250461 seconds
+Trial 2: 37.186170 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 39.449520 seconds
+Trial 1: 39.617680 seconds
+Trial 2: 39.509328 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 39.307241 seconds
+Trial 1: 39.641093 seconds
+Trial 2: 39.408352 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 37.472149 seconds
+Trial 1: 37.325844 seconds
+Trial 2: 37.362646 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 37.277725 seconds
+Trial 1: 37.378493 seconds
+Trial 2: 37.160111 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.202865 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.201913 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.202348 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 38.818787 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 39.324438 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 36.705514 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.203233 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.201127 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.201616 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.204059 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.202422 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.201887 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 38.035377 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 38.404727 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 36.162424 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 38.339976 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 38.586995 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 36.370907 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 37.742728 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 38.308101 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 36.390595 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.204254 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.205340 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.204614 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 38.450825 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 38.573054 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 36.236834 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.202233 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.203529 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.202591 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.205372 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.205839 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.203822 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.202701 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.202498 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.202771 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.202871 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.203971 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.203659 seconds
+
+-- DAC setting: 12 ---
+
+-- DAC setting: 12 ---
+
+-- DAC setting: 12 ---
+Trial 0: 0.202208 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.201096 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.201854 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.202654 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.203038 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.203071 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.201984 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.202759 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.203259 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.202757 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.202583 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.202354 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.202555 seconds
+Trial 1: 0.203712 seconds
+Trial 2: 0.204469 seconds
+Trial 3: 0.203885 seconds
+Trial 4: 0.204240 seconds
+Trial 5: 0.202588 seconds
+Trial 6: 0.202625 seconds
+Trial 7: 0.203101 seconds
+Trial 8: 0.203030 seconds
+Trial 9: 0.203023 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.207295 seconds
+Trial 1: 0.204725 seconds
+Trial 2: 0.205040 seconds
+Trial 3: 0.205996 seconds
+Trial 4: 0.203902 seconds
+Trial 5: 0.204039 seconds
+Trial 6: 0.204537 seconds
+Trial 7: 0.204757 seconds
+Trial 8: 0.204757 seconds
+Trial 9: 0.204607 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.204680 seconds
+Trial 1: 0.204522 seconds
+Trial 2: 0.205403 seconds
+Trial 3: 0.205227 seconds
+Trial 4: 0.204762 seconds
+Trial 5: 0.204915 seconds
+Trial 6: 0.203608 seconds
+Trial 7: 0.202660 seconds
+Trial 8: 0.202603 seconds
+Trial 9: 0.202890 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.202272 seconds
+Trial 1: 0.202476 seconds
+Trial 2: 0.201462 seconds
+Trial 3: 0.203444 seconds
+Trial 4: 0.203158 seconds
+Trial 5: 0.203762 seconds
+Trial 6: 0.204625 seconds
+Trial 7: 0.204294 seconds
+Trial 8: 0.203933 seconds
+Trial 9: 0.204217 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.201200 seconds
+Trial 1: 0.201844 seconds
+Trial 2: 0.201596 seconds
+Trial 3: 0.204171 seconds
+Trial 4: 0.202898 seconds
+Trial 5: 0.201927 seconds
+Trial 6: 0.203114 seconds
+Trial 7: 0.201179 seconds
+Trial 8: 0.202417 seconds
+Trial 9: 0.202586 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.201918 seconds
+Trial 1: 0.203372 seconds
+Trial 2: 0.202169 seconds
+Trial 3: 0.202537 seconds
+Trial 4: 0.202733 seconds
+Trial 5: 0.203812 seconds
+Trial 6: 0.202756 seconds
+Trial 7: 0.203284 seconds
+Trial 8: 0.203019 seconds
+Trial 9: 0.202801 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.203663 seconds
+Trial 1: 0.203515 seconds
+Trial 2: 0.203813 seconds
+Trial 3: 0.203771 seconds
+Trial 4: 0.202895 seconds
+Trial 5: 0.202221 seconds
+Trial 6: 0.201560 seconds
+Trial 7: 0.202759 seconds
+Trial 8: 0.202890 seconds
+Trial 9: 0.202318 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.202540 seconds
+Trial 1: 0.204712 seconds
+Trial 2: 0.204397 seconds
+Trial 3: 0.205060 seconds
+Trial 4: 0.204100 seconds
+Trial 5: 0.203251 seconds
+Trial 6: 0.204029 seconds
+Trial 7: 0.204012 seconds
+Trial 8: 0.204465 seconds
+Trial 9: 0.204139 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.204675 seconds
+Trial 1: 0.204601 seconds
+Trial 2: 0.204012 seconds
+Trial 3: 0.204555 seconds
+Trial 4: 0.204903 seconds
+Trial 5: 0.204733 seconds
+Trial 6: 0.204730 seconds
+Trial 7: 0.204414 seconds
+Trial 8: 0.204925 seconds
+Trial 9: 0.204342 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.206994 seconds
+Trial 1: 0.207119 seconds
+Trial 2: 0.208024 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.207952 seconds
+Trial 1: 0.209078 seconds
+Trial 2: 0.208770 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.208768 seconds
+Trial 1: 0.208806 seconds
+Trial 2: 0.208954 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 0.207474 seconds
+Trial 1: 0.208880 seconds
+Trial 2: 0.208943 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 0.208617 seconds
+Trial 1: 0.208344 seconds
+Trial 2: 0.208642 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 0.208000 seconds
+Trial 1: 0.207379 seconds
+Trial 2: 0.208515 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 0.208359 seconds
+Trial 1: 0.209335 seconds
+Trial 2: 0.209158 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 0.216296 seconds
+Trial 1: 0.209477 seconds
+Trial 2: 0.208864 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 0.207567 seconds
+Trial 1: 0.207645 seconds
+Trial 2: 0.207518 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 0.208785 seconds
+Trial 1: 0.209713 seconds
+Trial 2: 0.208716 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 0.208910 seconds
+Trial 1: 0.209540 seconds
+Trial 2: 0.208720 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 0.208966 seconds
+Trial 1: 0.209214 seconds
+Trial 2: 0.208554 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 0.204794 seconds
+Trial 1: 0.205336 seconds
+Trial 2: 0.205675 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 0.205439 seconds
+Trial 1: 0.205861 seconds
+Trial 2: 0.205387 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 0.207182 seconds
+Trial 1: 0.208474 seconds
+Trial 2: 0.207169 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 0.207750 seconds
+Trial 1: 0.208051 seconds
+Trial 2: 0.208125 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 0.207366 seconds
+Trial 1: 0.207208 seconds
+Trial 2: 0.208301 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 0.207559 seconds
+Trial 1: 0.208242 seconds
+Trial 2: 0.207936 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 0.207721 seconds
+Trial 1: 0.207175 seconds
+Trial 2: 0.207751 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 0.207343 seconds
+Trial 1: 0.207753 seconds
+Trial 2: 0.207723 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.207880 seconds
+Trial 1: 0.207763 seconds
+Trial 2: 0.208463 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.209502 seconds
+Trial 1: 0.209777 seconds
+Trial 2: 0.209551 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.207771 seconds
+Trial 1: 0.209066 seconds
+Trial 2: 0.209321 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 0.209149 seconds
+Trial 1: 0.210166 seconds
+Trial 2: 0.210134 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 0.209692 seconds
+Trial 1: 0.208758 seconds
+Trial 2: 0.209680 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 0.210155 seconds
+Trial 1: 0.210526 seconds
+Trial 2: 0.209789 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 0.208476 seconds
+Trial 1: 0.207912 seconds
+Trial 2: 0.208629 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 0.209441 seconds
+Trial 1: 0.209769 seconds
+Trial 2: 0.210238 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 0.208464 seconds
+Trial 1: 0.208285 seconds
+Trial 2: 0.210078 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 0.208594 seconds
+Trial 1: 0.209677 seconds
+Trial 2: 0.209360 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 0.207986 seconds
+Trial 1: 0.209716 seconds
+Trial 2: 0.210105 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 0.208807 seconds
+Trial 1: 0.209504 seconds
+Trial 2: 0.210858 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 0.210596 seconds
+Trial 1: 0.209225 seconds
+Trial 2: 0.209148 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 0.206009 seconds
+Trial 1: 0.206648 seconds
+Trial 2: 0.211014 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 0.207447 seconds
+Trial 1: 0.208050 seconds
+Trial 2: 0.207772 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 0.207456 seconds
+Trial 1: 0.208572 seconds
+Trial 2: 0.208457 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 0.207903 seconds
+Trial 1: 0.209621 seconds
+Trial 2: 0.208062 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 0.206969 seconds
+Trial 1: 0.207511 seconds
+Trial 2: 0.207946 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 0.208081 seconds
+Trial 1: 0.209125 seconds
+Trial 2: 0.208376 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 0.207310 seconds
+Trial 1: 0.208168 seconds
+Trial 2: 0.206936 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.205708 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.203846 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.205458 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 0.204887 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 0.207896 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 0.203239 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 0.204212 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 0.203834 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 0.205160 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 0.204035 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 0.204507 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 0.204680 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 0.204348 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 0.204673 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 0.205797 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 0.204625 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 0.203978 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 0.204977 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 0.205513 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 0.204274 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.204308 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.203120 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.204807 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 0.203963 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 0.202659 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 0.203461 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 0.202759 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 0.203955 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 0.202229 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 0.203935 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 0.202714 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 0.203215 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 0.202440 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 0.202656 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 0.207915 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 0.203981 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 0.203123 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 0.204175 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 0.203591 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 0.203636 seconds
+
+-- DAC setting: 12 ---
+
+-- DAC setting: 13 ---
+
+-- DAC setting: 14 ---
+
+-- DAC setting: 15 ---
+
+-- DAC setting: 16 ---
+
+-- DAC setting: 17 ---
+
+-- DAC setting: 18 ---
+
+-- DAC setting: 19 ---
+
+-- DAC setting: 20 ---
+
+-- DAC setting: 21 ---
+
+-- DAC setting: 22 ---
+
+-- DAC setting: 23 ---
+
+-- DAC setting: 24 ---
+
+-- DAC setting: 25 ---
+
+-- DAC setting: 26 ---
+
+-- DAC setting: 27 ---
+
+-- DAC setting: 28 ---
+
+-- DAC setting: 29 ---
+
+-- DAC setting: 30 ---
+
+-- DAC setting: 31 ---
+
+-- DAC setting: 12 ---
+
+-- DAC setting: 13 ---
+
+-- DAC setting: 14 ---
+
+-- DAC setting: 15 ---
+
+-- DAC setting: 16 ---
+
+-- DAC setting: 17 ---
+
+-- DAC setting: 18 ---
+
+-- DAC setting: 19 ---
+
+-- DAC setting: 20 ---
+
+-- DAC setting: 21 ---
+
+-- DAC setting: 22 ---
+
+-- DAC setting: 23 ---
+
+-- DAC setting: 24 ---
+
+-- DAC setting: 25 ---
+
+-- DAC setting: 26 ---
+
+-- DAC setting: 27 ---
+
+-- DAC setting: 28 ---
+
+-- DAC setting: 29 ---
+
+-- DAC setting: 30 ---
+
+-- DAC setting: 31 ---
+
+-- DAC setting: 12 ---
+
+-- DAC setting: 13 ---
+
+-- DAC setting: 14 ---
+
+-- DAC setting: 15 ---
+
+-- DAC setting: 16 ---
+
+-- DAC setting: 17 ---
+
+-- DAC setting: 18 ---
+
+-- DAC setting: 19 ---
+
+-- DAC setting: 20 ---
+
+-- DAC setting: 21 ---
+
+-- DAC setting: 22 ---
+
+-- DAC setting: 23 ---
+
+-- DAC setting: 24 ---
+
+-- DAC setting: 25 ---
+
+-- DAC setting: 26 ---
+
+-- DAC setting: 27 ---
+
+-- DAC setting: 28 ---
+
+-- DAC setting: 29 ---
+
+-- DAC setting: 30 ---
+
+-- DAC setting: 31 ---
+
+-- DAC setting: 12 ---
+Trial 0: 0.175701 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.175345 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.176701 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 0.175561 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 0.181722 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 0.175618 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 0.176093 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 0.175876 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 0.176695 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 0.176359 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 0.177799 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 0.177256 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 0.176160 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 0.176800 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 0.177106 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 0.175794 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 0.177658 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 0.178102 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 0.175415 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 0.176024 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.202085 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.204022 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.207665 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 0.203062 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 0.201662 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 0.201038 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 0.201689 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 0.202860 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 0.203644 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 0.202797 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 0.204212 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 0.202932 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 0.205066 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 0.203393 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 0.203405 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 0.201691 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 0.204078 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 0.204692 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 0.202318 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 0.202474 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 9.261587 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 9.054977 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 8.871263 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 8.120219 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 14.002374 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 14.614602 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 11.514209 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 10.756088 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 9.022639 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 8.957723 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 8.203291 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 8.689808 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 9.944789 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 10.161183 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 8.471272 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 8.755335 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 9.365303 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 8.759150 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 8.494274 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 8.676224 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.176404 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.180756 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.177179 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 0.176349 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 0.176377 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 0.177199 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 0.176553 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 0.176541 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 0.174964 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 0.174460 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 0.176388 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 0.175552 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 0.175965 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 0.174641 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 0.175385 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 0.176738 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 0.174904 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 0.176140 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 0.175499 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 0.176392 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 9.044416 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 9.258122 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 8.645531 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 8.379589 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 14.294641 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 14.487340 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 11.093926 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 11.024534 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 9.013651 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 8.762689 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 8.422276 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 8.360884 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 10.645105 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 10.193104 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 8.491233 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 8.635689 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 9.488173 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 9.173035 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 8.657675 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 8.773565 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.203360 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.204349 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.204318 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 0.203680 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 0.203189 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 0.203429 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 0.204977 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 0.203356 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 0.204843 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 0.204470 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 0.204569 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 0.202073 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 0.203724 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 0.201962 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 0.205682 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 0.202897 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 0.203738 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 0.203600 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 0.203749 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 0.202649 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.202213 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.200882 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.206959 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 0.202026 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 0.202957 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 0.203077 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 0.202824 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 0.203882 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 0.203523 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 0.202189 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 0.203796 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 0.203595 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 0.204509 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 0.203103 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 0.203199 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 0.202348 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 0.202868 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 0.203296 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 0.204270 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 0.204427 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.203936 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.204152 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.201664 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 0.203227 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 0.201556 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 0.203609 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 0.201838 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 0.203462 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 0.204131 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 0.203309 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 0.202389 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 0.202944 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 0.204611 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 0.202930 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 0.204757 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 0.202248 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 0.203710 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 0.203923 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 0.204141 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 0.204427 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 0.202618 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 0.204645 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 0.202370 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 0.203405 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 0.204884 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 0.203732 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 0.204683 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 0.205446 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 0.202352 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 0.202799 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 0.201455 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 0.207710 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 0.202335 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 0.203115 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 0.202246 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 0.203577 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 0.203428 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 0.204267 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 0.203282 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 0.203898 seconds
+
+-- DAC setting: 12 ---
+Trial 0: 8.750327 seconds
+
+-- DAC setting: 13 ---
+Trial 0: 8.487556 seconds
+
+-- DAC setting: 14 ---
+Trial 0: 8.608000 seconds
+
+-- DAC setting: 15 ---
+Trial 0: 8.097498 seconds
+
+-- DAC setting: 16 ---
+Trial 0: 14.189742 seconds
+
+-- DAC setting: 17 ---
+Trial 0: 14.393430 seconds
+
+-- DAC setting: 18 ---
+Trial 0: 11.104048 seconds
+
+-- DAC setting: 19 ---
+Trial 0: 11.506007 seconds
+
+-- DAC setting: 20 ---
+Trial 0: 9.070391 seconds
+
+-- DAC setting: 21 ---
+Trial 0: 9.364916 seconds
+
+-- DAC setting: 22 ---
+Trial 0: 8.604169 seconds
+
+-- DAC setting: 23 ---
+Trial 0: 8.339025 seconds
+
+-- DAC setting: 24 ---
+Trial 0: 10.522897 seconds
+
+-- DAC setting: 25 ---
+Trial 0: 9.556653 seconds
+
+-- DAC setting: 26 ---
+Trial 0: 8.499390 seconds
+
+-- DAC setting: 27 ---
+Trial 0: 8.855424 seconds
+
+-- DAC setting: 28 ---
+Trial 0: 8.649261 seconds
+
+-- DAC setting: 29 ---
+Trial 0: 8.796440 seconds
+
+-- DAC setting: 30 ---
+Trial 0: 8.647410 seconds
+
+-- DAC setting: 31 ---
+Trial 0: 8.674394 seconds

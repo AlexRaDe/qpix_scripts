@@ -1,0 +1,60 @@
+DAC setting: 12
+Counts: [69]
+Mean: 69.00
+DAC setting: 13
+Counts: [68]
+Mean: 68.00
+DAC setting: 14
+Counts: [63]
+Mean: 63.00
+DAC setting: 15
+Counts: [64]
+Mean: 64.00
+DAC setting: 16
+Counts: [112]
+Mean: 112.00
+DAC setting: 17
+Counts: [109]
+Mean: 109.00
+DAC setting: 18
+Counts: [86]
+Mean: 86.00
+DAC setting: 19
+Counts: [86]
+Mean: 86.00
+DAC setting: 20
+Counts: [69]
+Mean: 69.00
+DAC setting: 21
+Counts: [69]
+Mean: 69.00
+DAC setting: 22
+Counts: [65]
+Mean: 65.00
+DAC setting: 23
+Counts: [65]
+Mean: 65.00
+DAC setting: 24
+Counts: [79]
+Mean: 79.00
+DAC setting: 25
+Counts: [77]
+Mean: 77.00
+DAC setting: 26
+Counts: [65]
+Mean: 65.00
+DAC setting: 27
+Counts: [65]
+Mean: 65.00
+DAC setting: 28
+Counts: [70]
+Mean: 70.00
+DAC setting: 29
+Counts: [71]
+Mean: 71.00
+DAC setting: 30
+Counts: [65]
+Mean: 65.00
+DAC setting: 31
+Counts: [65]
+Mean: 65.00
