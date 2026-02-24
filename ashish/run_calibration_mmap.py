@@ -60,6 +60,8 @@ def make_hex_command_fast(DAC_val, base_config):
 
 def main():
     args = parse_args()
+    sampling_bool = (args.sampling == 'True')
+    cal_pulse_bool = (args.cal_pulse == 'True')
     
     # Generate the range object from arguments
     DAC_settings = range(args.dac_range[0], args.dac_range[1], args.dac_range[2])
@@ -102,8 +104,8 @@ def main():
                     reset_width=args.reset_width, 
                     rst_cal_gap=args.rst_cal_gap,
                     external_clock=args.external_clock, 
-                    sampling=args.sampling,
-                    cal_pulse=args.cal_pulse, 
+                    sampling=sampling_bool,
+                    cal_pulse=cal_pulse_bool, 
                     file_writer=delta_log
                 )
 
