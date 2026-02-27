@@ -65,6 +65,12 @@ def main():
     
     # Generate the range object from arguments
     DAC_settings = range(args.dac_range[0], args.dac_range[1], args.dac_range[2])
+    # Range of channels depending on the interface
+    interface_ranges = {
+        1: range(7),
+        2: range(8, 15)
+    }
+    channel_range = interface_ranges.get(args.interface, range(0))
 
     # --- PRE-LOOP OPTIMIZATIONS ---
     default_config_bin = read_config_file(args.config_file)
@@ -72,7 +78,7 @@ def main():
 
     # Clean and open output files
     out_files = {}
-    for c in range(7):
+    for c in channel_range:
         fname = f'outputs/ch{c}_calib.txt'
         if os.path.exists(fname):
             os.remove(fname)
@@ -110,7 +116,7 @@ def main():
                 )
 
                 # Output Processing
-                for c in range(7):
+                for c in channel_range:
                     counts = [trial[c] for trial in all_counts]
                     mean_val = sum(counts)/len(counts) if counts else 0
 
