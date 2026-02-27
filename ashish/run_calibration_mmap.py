@@ -53,8 +53,8 @@ def parse_args():
 def make_hex_command_fast(DAC_val, base_config):
     """Replaces make_five and string slicing with efficient formatting."""
     dac_bits = f"{DAC_val & 0x1F:05b}"
-    replCur0 = dac_bits[0]
-    replCur1_4 = dac_bits[1:][::-1]
+    replCur0 = dac_bits[4]
+    replCur1_4 = dac_bits[:4][::-1]
     final_bin = replCur1_4 + base_config[4:24] + replCur0 + base_config[25:]
     return int(final_bin, 2)
 
