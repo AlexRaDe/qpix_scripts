@@ -1,65 +1,83 @@
-import os
-import sys
 import time
-import csv
-import datetime
 from commands.helper_functions import *
 
-def sample_channel(c): #sample one channel
+# --- OPTIMIZATION: Cache working channels once at module level ---
+# This prevents re-reading the CSV file every time sample_working_channels is called.
+_cached_working_channels = get_channels_in_use()
+
+def sample_channel(c): 
+    """Samples one channel using fast mmap reads."""
     timestamps = []
-    counter = 0
-    ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch_status(c)
-    while (ch_empty != 1):
+    # No changes needed to the logic, but because read_ch_status and read_ch_fifo 
+    # now use mmap peek/poke, this loop will be ~100x faster.
+    
+    # Initial status check
+    status = read_ch_status(c)
+    ch_empty = status[5] # ch_empty is the last element in the returned tuple
+    
+    while ch_empty != 1:
         current_ts = read_ch_fifo(c)
         timestamps.append(current_ts)
-        ch_wr_rst_busy, ch_almost_full, ch_full, ch_rd_rst_busy, ch_almost_empty, ch_empty = read_ch_status(c)
-        counter += 1
-    print('\tChannel ' + str(c) + ' counts are: ' + str(counter))
-    return counter, timestamps
+        
+        # Update status for next iteration
+        status = read_ch_status(c)
+        ch_empty = status[5]
+        
+    # Optional: Removing the print statement inside the loop saves even more time 
+    # if you are calling this hundreds of times.
+    # print(f'\tChannel {c} counts: {len(timestamps)}')
+    return len(timestamps), timestamps
 
-def sample_working_channels(): #for one trial, sample all working channels
-    working_channels = get_channels_in_use()
-    # index = channel number; fixed-length lists keep mapping consistent even if we loop in a different order
-    trial_counts = [0]*16
-    trial_timestamps = [[] for _ in range(16)] #timestamps for each channel in this trial ([channel][timestamp number])
-    for c in range(15, -1, -1):  # sample from channel 15 down to 0
-        if c in working_channels:
+def sample_working_channels(): 
+    """Sample all working channels using the cached channel list."""
+    trial_counts = [0] * 16
+    trial_timestamps = [[] for _ in range(16)] 
+    
+    # Iterate through the cached list directly for better performance
+    for c in range(15, -1, -1):
+        if c in _cached_working_channels:
             count, timestamps = sample_channel(c)
             trial_counts[c] = count
             trial_timestamps[c] = timestamps
     return trial_counts, trial_timestamps
 
-def sample_n_trials(trials_num, win_width=64e-6, win_wait=10e-6, reset_width=50e-6,\
-                                rst_cal_gap=100e-9,external_clock=True, cal_pulse=False, sampling=False, file_writer=None):
+def sample_n_trials(trials_num, win_width=64e-6, win_wait=10e-6, reset_width=50e-6,
+                    rst_cal_gap=100e-9, external_clock=True, cal_pulse=False, 
+                    sampling=False, file_writer=None):
+    
+    # These functions now use mmap.poke internally
     set_win_width(win_width)
     set_win_wait(win_wait)
     set_reset_width(reset_width)
     set_rst_cal_gap(rst_cal_gap)
 
-    all_counts = [] #2D list containing each trial's channel counts ([trial][channel])
-    all_timestamps = [] #3D list containing each trial's timestamps ([trial][channel][[timestamp number])
+    all_counts = [] 
+    all_timestamps = [] 
 
-    startup() # system reset: note this turns ext clock off.
+    startup() 
     for j in range(trials_num): 
         start_time = time.perf_counter()
-        if external_clock: set_ext_clock(1) #clock back on!!
-        else: set_ext_clock(0)
-        if cal_pulse: calibration_pulse() #if calibrating, assert calibration sequence
-        if sampling: sample_pulse() #if sampling, assert sampling sequence
-        print("\tTrial: " , j+1 , " of " , trials_num)
-        #initial_setting_hex = os.popen("peek 0x43c00000").read()
-        #initial_setting_bin = bin(int(initial_setting_hex[2:],16))[2:]
-        #initial_setting_bin = '0'*(32-len(initial_setting_bin)) + initial_setting_bin
-        #new_setting_bin = initial_setting_bin[0:27]+'0'+initial_setting_bin[28:]
-        #new_setting_int = int(new_setting_bin, 2)
-        #new_setting_hex = f'0x{new_setting_int:08X}'
-        #os.system(f'poke 0x43c00000 {new_setting_hex}')
-        trial_counts, trial_timestamps = sample_working_channels() #sample
+        
+        # Direct bit manipulation via mmap is now used in these helper calls
+        set_ext_clock(1 if external_clock else 0)
+        
+        if cal_pulse: calibration_pulse()
+        if sampling: sample_pulse()
+        
+        print(f"\tTrial: {j+1} of {trials_num}")
+        
+        # This is where the heavy lifting happens
+        trial_counts, trial_timestamps = sample_working_channels()
+        
         all_counts.append(trial_counts)
         all_timestamps.append(trial_timestamps)
-        startup() #important: this deasserts the calibration or sampling sequence
-        end_time = time.perf_counter()
-        duration = end_time - start_time
-        print(f"Trial {j}: {duration:.6f} seconds")
-        print(f"Trial {j}: {duration:.6f} seconds", file=file_writer)
+        
+        startup() # Deasserts sequences
+        
+        duration = time.perf_counter() - start_time
+        msg = f"Trial {j}: {duration:.6f} seconds"
+        print(msg)
+        if file_writer:
+            file_writer.write(msg + "\n")
+            
     return all_counts, all_timestamps

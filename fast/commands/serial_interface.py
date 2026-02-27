@@ -4,41 +4,52 @@
 # Notes: reset serial interfaces first
 ##################################################
 
-import os
-import sys
 import time
+from commands.helper_functions import poke, peek
 
-# serial interface 1 or 2
-if sys.argv[1] == '1':
-    interface = sys.argv[1]
-    ctrl_addr = '0x43c00004 '
-    data_addr = '0x43c00008 '
-elif sys.argv[1] == '2':
-    interface = sys.argv[1]
-    ctrl_addr = '0x43c0000c '
-    data_addr = '0x43c00010 '
-else:
-    print ('Invalid serial interface!')
+def send_serial_command(interface, data):
+    """
+    Direct mmap-based replacement for the serial_interface.py script.
+    Writes data into the internal register of the QPix interface.
+    """
+    # Assuming the data_addr logic from your previous snippet
+    # If 'interface' determines the address, adjust this mapping:
+    # interface 1 -> 0x43c00008, interface 2 -> 0x43c0000c, etc.
+    base_data_addr = 0x43c00008
+    data_addr = base_data_addr + ((int(interface) - 1) * 8)
 
-# Input data in 32-bit hext, e.g. 0x12345678
-data = sys.argv[2]
+    # Convert hex string input to integer
+    if isinstance(data, str):
+        data_int = int(data, 16)
+    else:
+        data_int = data
 
-print ('Programming QPix interface ' + interface + ' with data: ' + data)
-os.system('poke ' + data_addr + data) # write data into internal reg
-print ('Loading internal reg')
-time.sleep(0.5)
+    # Write data into internal reg
+    poke(data_addr, data_int)
+    time.sleep(0.5)
 
-os.system('poke ' + ctrl_addr + '0x00000002') # bit 1
-print ('Loading data into FGPA shift register')
-time.sleep(0.5)
-os.system('poke ' + ctrl_addr + '0x00000000') # de-assert bit 1
-time.sleep(0.5)
+    base_ctrl_addr = 0x43c00004
+    ctrl_addr = base_ctrl_addr + ((int(interface) - 1) * 8)
 
-os.system('poke ' + ctrl_addr + '0x00000004') # bit 2
-print ('Shift out to QPix with gated clock')
-time.sleep(0.01)
+    # bit 1, loading data into FPGA shift register
+    poke(ctrl_addr, 0x00000002)
+    time.sleep(0.5)
+    poke(ctrl_addr, 0x00000000)
+    time.sleep(0.5)
 
-os.system('poke ' + ctrl_addr + '0x00000100') # bit 8
-print ('Shift out to QPix with gated clock')
-time.sleep(0.5)
-os.system('poke ' + ctrl_addr + '0x00000000') # de-assert bits 2,8
+    # bit 2, shift out to QPix with gated clock
+    poke(ctrl_addr, 0x00000004)
+    time.sleep(0.01)
+ 
+    # bit 8, shift out to QPix with gated clock
+    poke(ctrl_addr, 0x00000100)
+    time.sleep(0.5)
+
+    # de-assert bits 2 and 8
+    poke(ctrl_addr, 0x00000000)
+
+if __name__ == "__main__":
+    # Allows the script to still be run from the command line if needed
+    import sys
+    if len(sys.argv) > 2:
+        send_serial_command(sys.argv[1], sys.argv[2])
