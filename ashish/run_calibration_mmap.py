@@ -21,11 +21,11 @@ def parse_args():
     
     # Integer/Float Inputs
     parser.add_argument('--trials_num', type=int, default=1, help="Number of trials")
-    parser.add_argument('--interface', type=int, default=1, help="Serial interface ID")
-    parser.add_argument('--delta_t', type=int, default=0, help="Delta T select")
-    parser.add_argument('--win_width', type=float, default=100e-6, help="Window width in seconds")
-    parser.add_argument('--win_wait', type=float, default=5e-6, help="Window wait in seconds")
-    parser.add_argument('--reset_width', type=float, default=5e-6, help="Reset width in seconds")
+    parser.add_argument('--interface', type=int, default=2, help="Serial interface ID")
+    parser.add_argument('--delta_t', type=int, default=1, help="Delta T select")
+    parser.add_argument('--win_width', type=float, default=200e-6, help="Window width in seconds")
+    parser.add_argument('--win_wait', type=float, default=1e-6, help="Window wait in seconds")
+    parser.add_argument('--reset_width', type=float, default=1e-6, help="Reset width in seconds")
     parser.add_argument('--rst_cal_gap', type=float, default=100e-9, help="RST/Cal gap in seconds")
     
     # Files and Flags
@@ -34,8 +34,8 @@ def parse_args():
     parser.set_defaults(external_clock=True)
     
     # Sample Select Toggle (The one we missed!)
-    parser.add_argument('--sample_select', type=int, choices=[0, 1], default=1,
-                        help="Set sample select bit (default: 1)")
+    parser.add_argument('--sample_select', type=int, choices=[0, 1], default=0,
+                        help="Set sample select bit (default: 0)")
 
     # Sampling/Pulse Logic
     parser.add_argument('--sampling', choices=['True', 'False'], default='True',
