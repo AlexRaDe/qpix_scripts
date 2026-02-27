@@ -67,8 +67,8 @@ def main():
     DAC_settings = range(args.dac_range[0], args.dac_range[1], args.dac_range[2])
     # Range of channels depending on the interface
     interface_ranges = {
-        1: range(7),
-        2: range(8, 15)
+        1: range(8),
+        2: range(8, 16)
     }
     channel_range = interface_ranges.get(args.interface, range(0))
 
