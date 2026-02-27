@@ -1,0 +1,60 @@
+DAC setting: 12
+Counts: [43, 47, 48, 48, 49, 46, 44, 45, 44, 46]
+Mean: 46.00
+DAC setting: 13
+Counts: [47, 46, 47, 47, 46, 47, 47, 45, 46, 46]
+Mean: 46.40
+DAC setting: 14
+Counts: [44, 45, 47, 45, 49, 45, 49, 47, 45, 45]
+Mean: 46.10
+DAC setting: 15
+Counts: [44, 46, 47, 45, 45, 34, 46, 48, 46, 45]
+Mean: 44.60
+DAC setting: 16
+Counts: [44, 46, 47, 47, 48, 47, 46, 47, 46, 45]
+Mean: 46.30
+DAC setting: 17
+Counts: [46, 48, 47, 47, 47, 44, 46, 46, 46, 46]
+Mean: 46.30
+DAC setting: 18
+Counts: [48, 45, 45, 48, 43, 48, 44, 49, 46, 45]
+Mean: 46.10
+DAC setting: 19
+Counts: [43, 48, 47, 33, 45, 46, 46, 45, 45, 48]
+Mean: 44.60
+DAC setting: 20
+Counts: [45, 47, 45, 46, 46, 46, 48, 47, 45, 46]
+Mean: 46.10
+DAC setting: 21
+Counts: [45, 45, 43, 45, 45, 46, 46, 48, 48, 47]
+Mean: 45.80
+DAC setting: 22
+Counts: [46, 45, 45, 48, 45, 47, 47, 47, 46, 47]
+Mean: 46.30
+DAC setting: 23
+Counts: [44, 46, 47, 46, 46, 45, 47, 48, 48, 46]
+Mean: 46.30
+DAC setting: 24
+Counts: [46, 48, 47, 44, 45, 46, 45, 48, 46, 46]
+Mean: 46.10
+DAC setting: 25
+Counts: [46, 46, 44, 46, 46, 47, 46, 43, 46, 46]
+Mean: 45.60
+DAC setting: 26
+Counts: [47, 44, 47, 46, 44, 48, 48, 46, 46, 46]
+Mean: 46.20
+DAC setting: 27
+Counts: [47, 44, 47, 44, 48, 46, 47, 46, 46, 46]
+Mean: 46.10
+DAC setting: 28
+Counts: [47, 46, 48, 41, 45, 47, 49, 45, 46, 47]
+Mean: 46.10
+DAC setting: 29
+Counts: [45, 45, 47, 45, 45, 46, 46, 48, 47, 48]
+Mean: 46.20
+DAC setting: 30
+Counts: [46, 47, 46, 47, 47, 47, 47, 44, 46, 47]
+Mean: 46.40
+DAC setting: 31
+Counts: [46, 47, 44, 46, 46, 45, 44, 47, 46, 47]
+Mean: 45.80

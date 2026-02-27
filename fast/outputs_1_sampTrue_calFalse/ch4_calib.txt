@@ -1,0 +1,60 @@
+DAC setting: 12
+Counts: [20, 27, 21, 25, 24, 21, 22, 25, 22, 21]
+Mean: 22.80
+DAC setting: 13
+Counts: [23, 20, 20, 21, 22, 24, 23, 21, 25, 23]
+Mean: 22.20
+DAC setting: 14
+Counts: [22, 21, 22, 23, 20, 21, 23, 26, 20, 23]
+Mean: 22.10
+DAC setting: 15
+Counts: [23, 24, 23, 21, 25, 23, 22, 21, 20, 22]
+Mean: 22.40
+DAC setting: 16
+Counts: [24, 23, 24, 23, 24, 22, 20, 26, 23, 21]
+Mean: 23.00
+DAC setting: 17
+Counts: [25, 24, 19, 23, 23, 21, 24, 22, 26, 20]
+Mean: 22.70
+DAC setting: 18
+Counts: [23, 23, 24, 21, 22, 24, 20, 23, 24, 22]
+Mean: 22.60
+DAC setting: 19
+Counts: [20, 21, 21, 21, 24, 22, 22, 22, 22, 22]
+Mean: 21.70
+DAC setting: 20
+Counts: [21, 23, 21, 24, 24, 22, 21, 20, 23, 21]
+Mean: 22.00
+DAC setting: 21
+Counts: [24, 21, 21, 23, 22, 20, 20, 23, 20, 25]
+Mean: 21.90
+DAC setting: 22
+Counts: [24, 22, 26, 23, 22, 21, 24, 24, 25, 21]
+Mean: 23.20
+DAC setting: 23
+Counts: [21, 22, 23, 23, 23, 21, 23, 22, 22, 23]
+Mean: 22.30
+DAC setting: 24
+Counts: [23, 23, 21, 23, 24, 21, 22, 24, 21, 21]
+Mean: 22.30
+DAC setting: 25
+Counts: [23, 22, 22, 22, 25, 24, 23, 23, 21, 21]
+Mean: 22.60
+DAC setting: 26
+Counts: [21, 21, 22, 22, 23, 25, 24, 21, 24, 24]
+Mean: 22.70
+DAC setting: 27
+Counts: [24, 22, 21, 22, 23, 25, 21, 22, 21, 23]
+Mean: 22.40
+DAC setting: 28
+Counts: [21, 20, 23, 23, 25, 22, 22, 21, 20, 22]
+Mean: 21.90
+DAC setting: 29
+Counts: [22, 20, 22, 23, 24, 23, 26, 24, 23, 23]
+Mean: 23.00
+DAC setting: 30
+Counts: [20, 20, 20, 22, 22, 22, 23, 21, 24, 22]
+Mean: 21.60
+DAC setting: 31
+Counts: [22, 21, 24, 22, 21, 21, 26, 23, 22, 24]
+Mean: 22.60

@@ -1,0 +1,60 @@
+DAC setting: 12
+Counts: [32, 34, 34, 35, 34, 34, 35, 32, 33, 33]
+Mean: 33.60
+DAC setting: 13
+Counts: [34, 35, 35, 35, 33, 35, 36, 33, 33, 34]
+Mean: 34.30
+DAC setting: 14
+Counts: [33, 34, 35, 35, 35, 35, 35, 34, 35, 33]
+Mean: 34.40
+DAC setting: 15
+Counts: [33, 33, 35, 35, 35, 23, 33, 34, 35, 33]
+Mean: 32.90
+DAC setting: 16
+Counts: [31, 34, 37, 35, 34, 35, 35, 36, 34, 33]
+Mean: 34.40
+DAC setting: 17
+Counts: [33, 35, 36, 35, 34, 31, 34, 36, 33, 34]
+Mean: 34.10
+DAC setting: 18
+Counts: [35, 33, 35, 35, 35, 33, 33, 34, 36, 36]
+Mean: 34.50
+DAC setting: 19
+Counts: [35, 33, 34, 18, 36, 34, 34, 34, 35, 35]
+Mean: 32.80
+DAC setting: 20
+Counts: [34, 35, 34, 35, 34, 35, 34, 36, 34, 35]
+Mean: 34.60
+DAC setting: 21
+Counts: [36, 34, 31, 34, 35, 35, 35, 35, 34, 34]
+Mean: 34.30
+DAC setting: 22
+Counts: [33, 35, 35, 35, 34, 35, 34, 34, 34, 35]
+Mean: 34.40
+DAC setting: 23
+Counts: [35, 34, 35, 36, 34, 36, 35, 36, 37, 35]
+Mean: 35.30
+DAC setting: 24
+Counts: [33, 34, 35, 33, 33, 34, 35, 32, 34, 33]
+Mean: 33.60
+DAC setting: 25
+Counts: [35, 35, 34, 36, 34, 35, 34, 34, 35, 37]
+Mean: 34.90
+DAC setting: 26
+Counts: [35, 34, 34, 34, 33, 35, 34, 34, 35, 35]
+Mean: 34.30
+DAC setting: 27
+Counts: [34, 31, 33, 33, 34, 34, 34, 34, 33, 34]
+Mean: 33.40
+DAC setting: 28
+Counts: [33, 35, 35, 34, 35, 33, 35, 35, 35, 35]
+Mean: 34.50
+DAC setting: 29
+Counts: [33, 34, 35, 35, 34, 34, 34, 36, 37, 36]
+Mean: 34.80
+DAC setting: 30
+Counts: [35, 35, 34, 34, 34, 35, 35, 35, 34, 34]
+Mean: 34.50
+DAC setting: 31
+Counts: [34, 35, 34, 35, 33, 35, 34, 35, 35, 35]
+Mean: 34.50

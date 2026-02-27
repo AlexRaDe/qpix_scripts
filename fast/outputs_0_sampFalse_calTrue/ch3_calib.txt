@@ -1,0 +1,60 @@
+DAC setting: 12
+Counts: [65, 67, 67, 66, 66, 67, 65, 67, 67, 65]
+Mean: 66.20
+DAC setting: 13
+Counts: [66, 66, 67, 67, 66, 66, 68, 66, 66, 66]
+Mean: 66.40
+DAC setting: 14
+Counts: [67, 66, 66, 67, 66, 67, 66, 66, 67, 67]
+Mean: 66.50
+DAC setting: 15
+Counts: [66, 66, 66, 68, 66, 67, 67, 66, 68, 66]
+Mean: 66.60
+DAC setting: 16
+Counts: [67, 66, 67, 66, 66, 67, 67, 66, 67, 66]
+Mean: 66.50
+DAC setting: 17
+Counts: [65, 67, 67, 66, 66, 67, 67, 66, 66, 66]
+Mean: 66.30
+DAC setting: 18
+Counts: [65, 66, 66, 66, 66, 67, 67, 66, 66, 67]
+Mean: 66.20
+DAC setting: 19
+Counts: [66, 67, 65, 66, 66, 65, 66, 66, 67, 66]
+Mean: 66.00
+DAC setting: 20
+Counts: [66, 66, 68, 66, 66, 67, 68, 67, 66, 67]
+Mean: 66.70
+DAC setting: 21
+Counts: [66, 67, 66, 67, 66, 67, 67, 66, 66, 66]
+Mean: 66.40
+DAC setting: 22
+Counts: [66, 67, 67, 66, 66, 66, 66, 67, 67, 66]
+Mean: 66.40
+DAC setting: 23
+Counts: [66, 66, 67, 66, 66, 66, 67, 67, 65, 66]
+Mean: 66.20
+DAC setting: 24
+Counts: [66, 65, 67, 67, 67, 66, 67, 67, 67, 66]
+Mean: 66.50
+DAC setting: 25
+Counts: [66, 66, 66, 66, 67, 66, 67, 68, 66, 66]
+Mean: 66.40
+DAC setting: 26
+Counts: [66, 66, 66, 67, 67, 67, 66, 67, 66, 66]
+Mean: 66.40
+DAC setting: 27
+Counts: [66, 66, 65, 66, 67, 66, 67, 68, 65, 68]
+Mean: 66.40
+DAC setting: 28
+Counts: [67, 66, 66, 66, 67, 66, 68, 66, 67, 67]
+Mean: 66.60
+DAC setting: 29
+Counts: [66, 66, 67, 66, 67, 67, 65, 67, 66, 67]
+Mean: 66.40
+DAC setting: 30
+Counts: [66, 67, 65, 65, 67, 66, 66, 68, 68, 66]
+Mean: 66.40
+DAC setting: 31
+Counts: [67, 67, 65, 66, 66, 66, 66, 66, 65, 67]
+Mean: 66.10

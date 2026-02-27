@@ -1,0 +1,60 @@
+DAC setting: 12
+Counts: [82, 80, 81, 80, 80, 80, 79, 80, 80, 81]
+Mean: 80.30
+DAC setting: 13
+Counts: [81, 82, 81, 80, 79, 80, 79, 78, 81, 81]
+Mean: 80.20
+DAC setting: 14
+Counts: [82, 80, 80, 81, 80, 81, 82, 79, 79, 82]
+Mean: 80.60
+DAC setting: 15
+Counts: [80, 80, 80, 80, 79, 81, 80, 79, 80, 80]
+Mean: 79.90
+DAC setting: 16
+Counts: [80, 81, 79, 82, 81, 81, 82, 81, 79, 80]
+Mean: 80.60
+DAC setting: 17
+Counts: [81, 80, 79, 80, 80, 79, 80, 82, 79, 80]
+Mean: 80.00
+DAC setting: 18
+Counts: [80, 80, 82, 82, 80, 79, 81, 81, 80, 81]
+Mean: 80.60
+DAC setting: 19
+Counts: [81, 81, 80, 81, 81, 80, 82, 80, 79, 79]
+Mean: 80.40
+DAC setting: 20
+Counts: [80, 82, 80, 80, 80, 79, 81, 81, 82, 81]
+Mean: 80.60
+DAC setting: 21
+Counts: [84, 79, 79, 80, 79, 81, 81, 80, 81, 81]
+Mean: 80.50
+DAC setting: 22
+Counts: [80, 81, 80, 79, 80, 82, 79, 80, 82, 79]
+Mean: 80.20
+DAC setting: 23
+Counts: [79, 82, 80, 79, 82, 80, 82, 80, 80, 80]
+Mean: 80.40
+DAC setting: 24
+Counts: [81, 81, 82, 79, 79, 79, 80, 81, 82, 81]
+Mean: 80.50
+DAC setting: 25
+Counts: [80, 80, 80, 81, 79, 79, 80, 81, 80, 81]
+Mean: 80.10
+DAC setting: 26
+Counts: [79, 79, 79, 80, 82, 81, 80, 81, 80, 83]
+Mean: 80.40
+DAC setting: 27
+Counts: [80, 79, 80, 80, 80, 79, 80, 80, 81, 80]
+Mean: 79.90
+DAC setting: 28
+Counts: [82, 80, 80, 80, 81, 79, 83, 79, 81, 80]
+Mean: 80.50
+DAC setting: 29
+Counts: [80, 81, 80, 81, 80, 81, 78, 79, 81, 82]
+Mean: 80.30
+DAC setting: 30
+Counts: [82, 79, 80, 80, 83, 81, 81, 81, 79, 80]
+Mean: 80.60
+DAC setting: 31
+Counts: [81, 82, 81, 81, 80, 80, 80, 81, 80, 81]
+Mean: 80.70

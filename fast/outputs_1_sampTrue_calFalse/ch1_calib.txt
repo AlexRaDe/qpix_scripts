@@ -1,0 +1,60 @@
+DAC setting: 12
+Counts: [6, 7, 5, 7, 6, 7, 8, 7, 6, 5]
+Mean: 6.40
+DAC setting: 13
+Counts: [6, 4, 7, 9, 6, 5, 5, 7, 7, 5]
+Mean: 6.10
+DAC setting: 14
+Counts: [4, 7, 4, 7, 6, 7, 5, 7, 8, 6]
+Mean: 6.10
+DAC setting: 15
+Counts: [7, 8, 6, 7, 5, 7, 8, 7, 6, 6]
+Mean: 6.70
+DAC setting: 16
+Counts: [5, 4, 6, 6, 8, 7, 7, 7, 7, 4]
+Mean: 6.10
+DAC setting: 17
+Counts: [5, 5, 6, 7, 5, 7, 5, 6, 6, 5]
+Mean: 5.70
+DAC setting: 18
+Counts: [6, 7, 7, 7, 7, 3, 7, 5, 8, 6]
+Mean: 6.30
+DAC setting: 19
+Counts: [5, 5, 5, 5, 5, 7, 5, 7, 7, 7]
+Mean: 5.80
+DAC setting: 20
+Counts: [7, 7, 7, 5, 5, 6, 6, 6, 6, 7]
+Mean: 6.20
+DAC setting: 21
+Counts: [6, 5, 5, 5, 7, 5, 6, 6, 6, 6]
+Mean: 5.70
+DAC setting: 22
+Counts: [7, 5, 5, 6, 6, 4, 8, 7, 7, 7]
+Mean: 6.20
+DAC setting: 23
+Counts: [4, 7, 7, 5, 5, 5, 5, 6, 5, 5]
+Mean: 5.40
+DAC setting: 24
+Counts: [6, 8, 6, 6, 6, 7, 7, 6, 5, 6]
+Mean: 6.30
+DAC setting: 25
+Counts: [6, 7, 7, 6, 5, 6, 7, 6, 4, 6]
+Mean: 6.00
+DAC setting: 26
+Counts: [4, 7, 6, 8, 6, 7, 6, 6, 7, 6]
+Mean: 6.30
+DAC setting: 27
+Counts: [7, 7, 6, 5, 5, 6, 6, 6, 6, 8]
+Mean: 6.20
+DAC setting: 28
+Counts: [8, 7, 8, 5, 5, 6, 6, 7, 6, 7]
+Mean: 6.50
+DAC setting: 29
+Counts: [4, 8, 6, 7, 6, 6, 7, 6, 6, 6]
+Mean: 6.20
+DAC setting: 30
+Counts: [4, 5, 5, 5, 7, 6, 6, 6, 7, 7]
+Mean: 5.80
+DAC setting: 31
+Counts: [6, 7, 6, 4, 8, 7, 5, 5, 7, 7]
+Mean: 6.20
